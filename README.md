@@ -9,7 +9,7 @@
 |74|Search a 2D Matrix|Yes|
 |240|Search a 2D Matrix II|Yes|
 
-##DFS and BFS
+## DFS and BFS  
 | # | title | solved |
 | :--- | :----: | ----: |
 | 200 | Number of island | Yes |
