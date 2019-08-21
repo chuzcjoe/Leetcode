@@ -30,4 +30,5 @@
 | # | title | solved |
 | :--- | :----: | ----: |
 | 215 | Kth Largetst element in an Array| Yes |
+|347|TopK frequent element|Yes|
 
