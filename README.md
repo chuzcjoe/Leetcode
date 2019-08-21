@@ -16,3 +16,18 @@
 | 130 |   surrounded regions   | Yes     |
 |127| Word ladder| Yes|
 
+
+## Stack 
+| # | title | solved |
+| :--- | :----: | ----: |
+| 155 | Min Stack | Yes |
+| 232 |   Implementing Queue using Stack   | Yes     |
+|225| Imppementing Stack using Queue| Yes|
+|150|Evaluate Reverse Polish Notation|Yes|
+|394|Decode String|Yes|
+
+## Queue
+| # | title | solved |
+| :--- | :----: | ----: |
+| 215 | Kth Largetst element in an Array| Yes |
+
