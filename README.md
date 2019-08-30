@@ -25,6 +25,7 @@
 |225| Imppementing Stack using Queue| Yes|
 |150|Evaluate Reverse Polish Notation|Yes|
 |394|Decode String|Yes|
+|224|Basic Calculator|Yes|
 
 ## Queue
 | # | title | solved |
