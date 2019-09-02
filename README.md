@@ -44,3 +44,4 @@
 |216|Combination Sum 3|Yes|
 |377|Combination Sum 4|Yes|
 |46|Permutation|Yes|
+|47|Permutation 2|Yes|
