@@ -38,4 +38,5 @@
 |:---|:----:|----:|
 |78|Subsets|Yes|
 |90|No Duplicate Subset|Yes|
+|77|Combination|Yes|
 
