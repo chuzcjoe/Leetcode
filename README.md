@@ -40,4 +40,4 @@
 |90|No Duplicate Subset|Yes|
 |77|Combination|Yes|
 |39|Combination Sum|Yes|
-|40|Combination Sum|Yes|
+|40|Combination Sum 2|Yes|
