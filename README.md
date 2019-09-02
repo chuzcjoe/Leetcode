@@ -45,3 +45,8 @@
 |377|Combination Sum 4|Yes|
 |46|Permutation|Yes|
 |47|Permutation 2|Yes|
+
+## String
+|#|title|solved|
+|:---|:----:|----:|
+|31|Next Permutation|Yes|
