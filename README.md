@@ -50,3 +50,4 @@
 |#|title|solved|
 |:---|:----:|----:|
 |31|Next Permutation|Yes|
+|60|Permutation Sequence|Yes|
