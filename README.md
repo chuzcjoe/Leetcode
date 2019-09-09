@@ -52,3 +52,8 @@
 |:---|:----:|----:|
 |31|Next Permutation|Yes|
 |60|Permutation Sequence|Yes|
+
+## Tree
+|#|title|solved|
+|:---|:----:|----:|
+|144|Pre Order Tree|Yes|
