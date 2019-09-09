@@ -58,3 +58,4 @@
 |:---|:----:|----:|
 |144|Pre Order Tree|Yes|
 |94|In Order Tree|Yes|
+|145|Post Order Tree|Yes|
