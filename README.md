@@ -57,3 +57,4 @@
 |#|title|solved|
 |:---|:----:|----:|
 |144|Pre Order Tree|Yes|
+|94|In Order Tree|Yes|
