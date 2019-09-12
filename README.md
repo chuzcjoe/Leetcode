@@ -60,3 +60,4 @@
 |94|In Order Tree|Yes|
 |145|Post Order Tree|Yes|
 |102|Level order Tree|Yes|
+|100|Same Tree|Yes|
