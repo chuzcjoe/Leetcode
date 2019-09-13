@@ -62,3 +62,4 @@
 |102|Level order Tree|Yes|
 |100|Same Tree|Yes|
 |101|Symmetric Tree|Yes|
+|226|Invert Tree|Yes|
