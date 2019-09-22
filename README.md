@@ -68,3 +68,9 @@
 |113|binary tree sum2|Yes|
 |129|Sum root to leaves|Yes|
 |111|Minimum depth of a tree|Yes|
+
+## Linked List
+|#|title|solved|
+|:---|:----:|----:|
+|206|Reverse Linked List|Yes|
+
