@@ -67,3 +67,4 @@
 |112|binary tree sum|Yes|
 |113|binary tree sum2|Yes|
 |129|Sum root to leaves|Yes|
+|111|Minimum depth of a tree|Yes|
