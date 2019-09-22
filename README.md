@@ -73,4 +73,5 @@
 |#|title|solved|
 |:---|:----:|----:|
 |206|Reverse Linked List|Yes|
+|141|Linked List Cycle|Yes|
 
