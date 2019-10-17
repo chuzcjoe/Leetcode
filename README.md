@@ -52,6 +52,7 @@
 |:---|:----:|----:|
 |31|Next Permutation|Yes|
 |60|Permutation Sequence|Yes|
+|159|Longest substring with at most two distinct characters|159|
 
 ## Tree
 |#|title|solved|
