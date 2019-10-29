@@ -82,3 +82,7 @@
 |83|remove duplicate numbers in linked list|Yes|
 |203|Remove Linked List Elements|Yes|
 
+## Random
+|#|title|solved|
+|:---|:----:|----:|
+|384|Shuffle An Array|Yes|
