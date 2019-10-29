@@ -86,3 +86,4 @@
 |#|title|solved|
 |:---|:----:|----:|
 |384|Shuffle An Array|Yes|
+|398|Random Pick Index|Yes|
