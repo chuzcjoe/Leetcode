@@ -88,3 +88,4 @@
 |384|Shuffle An Array|Yes|
 |398|Random Pick Index|Yes|
 |382|Linked List Random Node|Yes|
+|380|Insert Delete GetRandom O(1)Yes||
