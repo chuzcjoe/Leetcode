@@ -15,6 +15,7 @@
 | 200 | Number of island | Yes |
 | 130 |   surrounded regions   | Yes     |
 |127| Word ladder| Yes|
+|397|Integer Replacement|Yes|
 
 
 ## Stack 
