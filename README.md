@@ -1,6 +1,8 @@
 ## Mock
 |#|title|solved|
+| :--- | :----: | ----: |
 |509|Fibonacci Number|Yes|
+|70|Climibing stages|Yes|
 
 ## Matrix
 | # | title | solved |
