@@ -3,6 +3,8 @@
 | :--- | :----: | ----: |
 |509|Fibonacci Number|Yes|
 |70|Climibing stages|Yes|
+|62|Unique Paths|Yes|
+
 
 ## Matrix
 | # | title | solved |
