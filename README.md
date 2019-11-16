@@ -6,7 +6,7 @@
 |62|Unique Paths|DP|Yes|Week1|
 |63|Unique Paths II|DP|Yes|Week1|
 |120|Triangle|DP|Yes|Week1|
-|279|Perfect Squares|DP|YesWeek1|
+|279|Perfect Squares|DP|Yes|Week1|
 
 ## Matrix
 | # | title | solved |
