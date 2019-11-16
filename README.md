@@ -1,5 +1,5 @@
 ## Weekly Mock
-|#|title|Category|solved|
+|#|title|Category|solved|# Week|
 | :--- | :----: | ----: |----: |----: |
 |509|Fibonacci Number|Recursive|Yes|Week1|
 |70|Climibing stages|DP|Yes|Week1|
