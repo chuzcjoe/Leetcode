@@ -1,9 +1,9 @@
 ## Mock
-|#|title|solved|
+|#|title|Category|solved|
 | :--- | :----: | ----: |
-|509|Fibonacci Number|Yes|
-|70|Climibing stages|Yes|
-|62|Unique Paths|Yes|
+|509|Fibonacci Number|Recursive|Yes|
+|70|Climibing stages|DFS|Yes|
+|62|Unique Paths|DFS||Yes|
 
 
 ## Matrix
