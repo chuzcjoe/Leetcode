@@ -5,6 +5,7 @@
 |70|Climibing stages|DFS|Yes|
 |62|Unique Paths|DFS|Yes|
 |63|Unique Paths II|DFS|Yes|
+|120|Triangle|DFS|Yes
 
 ## Matrix
 | # | title | solved |
