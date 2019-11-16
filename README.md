@@ -2,10 +2,11 @@
 |#|title|Category|solved|
 | :--- | :----: | ----: |----: |
 |509|Fibonacci Number|Recursive|Yes|
-|70|Climibing stages|DFS|Yes|
-|62|Unique Paths|DFS|Yes|
-|63|Unique Paths II|DFS|Yes|
-|120|Triangle|DFS|Yes
+|70|Climibing stages|DP|Yes|
+|62|Unique Paths|DP|Yes|
+|63|Unique Paths II|DP|Yes|
+|120|Triangle|DP|Yes|
+|279|Perfect Squares|DP|Yes
 
 ## Matrix
 | # | title | solved |
