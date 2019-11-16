@@ -1,4 +1,4 @@
-## Mock
+## Weekly Mock
 |#|title|Category|solved|
 | :--- | :----: | ----: |----: |
 |509|Fibonacci Number|Recursive|Yes|
