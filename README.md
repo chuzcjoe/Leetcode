@@ -1,12 +1,12 @@
 ## Weekly Mock
 |#|title|Category|solved|
-| :--- | :----: | ----: |----: |
-|509|Fibonacci Number|Recursive|Yes|
-|70|Climibing stages|DP|Yes|
-|62|Unique Paths|DP|Yes|
-|63|Unique Paths II|DP|Yes|
-|120|Triangle|DP|Yes|
-|279|Perfect Squares|DP|Yes
+| :--- | :----: | ----: |----: |----: |
+|509|Fibonacci Number|Recursive|Yes|Week1|
+|70|Climibing stages|DP|Yes|Week1|
+|62|Unique Paths|DP|Yes|Week1|
+|63|Unique Paths II|DP|Yes|Week1|
+|120|Triangle|DP|Yes|Week1|
+|279|Perfect Squares|DP|YesWeek1|
 
 ## Matrix
 | # | title | solved |
