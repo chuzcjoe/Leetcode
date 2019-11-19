@@ -7,6 +7,7 @@
 |63|Unique Paths II|DP|Yes|Week1|
 |120|Triangle|DP|Yes|Week1|
 |279|Perfect Squares|DP|Yes|Week1|
+|375|Guess Number Higher or Lower II|DP||Yes|Week2
 
 ## Matrix
 | # | title | solved |
