@@ -1,0 +1,24 @@
+class Solution(object):
+    def getMoneyAmount(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        
+        def solve(dp,L,R):
+            if L >= R:
+                return 0
+            
+            if dp[L][R]:
+                return dp[L][R]
+            
+            dp[L][R] = min(i + max(solve(dp,L,i-1),solve(dp,i+1,R)) for i in range(L,R+1))
+            return dp[L][R]
+        
+        dp = [[0]*(n+1) for _ in range(n+1)]
+        
+        return solve(dp,1,n)
+        
+        
+        
+        
