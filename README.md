@@ -9,7 +9,7 @@
 |279|Perfect Squares|DP|Yes|Week1|
 |375|Guess Number Higher or Lower II|DP|!|Week2|
 |312|Burst Balloons|DP|!(hard)|Week2|
-|300|longest increasing subsequence|O(nlong)|!||Week2|
+|300|longest increasing subsequence|O(nlong)|!|Week2|
 
 ## Matrix
 | # | title | solved |
