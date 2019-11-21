@@ -10,6 +10,7 @@
 |375|Guess Number Higher or Lower II|DP|!|Week2|
 |312|Burst Balloons|DP|!(hard)|Week2|
 |300|longest increasing subsequence|Binary Search O(nlong)|!|Week2|
+|673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 
 ## Matrix
 | # | title | solved |
