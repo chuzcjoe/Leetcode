@@ -1,0 +1,31 @@
+class Solution(object):
+    def coinChange(self, coins, amount):
+        """
+        :type coins: List[int]
+        :type amount: int
+        :rtype: int
+        """
+        
+        if amount == 0:
+            return 0
+        
+        if min(coins) > amount:
+            return -1
+        
+        dp = [0] * (amount + 1)
+        for c in coins:
+            if c <= amount:
+                dp[c] = 1
+        
+        for i in range(1,amount+1):
+            if dp[i]:
+                continue
+            bk = [dp[i-c]+1 for c in coins if i-c >= 0 and dp[i-c]]
+            if not bk:
+                dp[i] = 0
+            else:
+                dp[i] = min(bk)
+        
+        
+        return dp[amount] if dp[amount] else -1
+            
