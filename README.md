@@ -34,6 +34,7 @@
 |417|Pacific Atlantic Water Flow|Yes|
 |733|Flood Fill|Yes|
 |778|Swim in Rising Water|Yes|
+|433|Minimum Genetic Mutation|Yes (close to 127)|
 
 
 
