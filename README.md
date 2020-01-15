@@ -13,6 +13,11 @@
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## DP
+| # | title | solved |
+| :--- | :----: | ----: |
+| 42 | Trapping Rain Water | Yes |
+
 ## Matrix
 | # | title | solved |
 | :--- | :----: | ----: |
