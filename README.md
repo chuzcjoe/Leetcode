@@ -17,6 +17,7 @@
 | # | title | solved |
 | :--- | :----: | ----: |
 | 42 | Trapping Rain Water | Yes |
+|139|Work Break|Yes|
 
 ## Matrix
 | # | title | solved |
