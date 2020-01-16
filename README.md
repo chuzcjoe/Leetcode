@@ -18,6 +18,7 @@
 | :--- | :----: | ----: |
 | 42 | Trapping Rain Water | Yes |
 |139|Work Break|Yes|
+|518|Coin Change|Yes|
 
 ## Matrix
 | # | title | solved |
