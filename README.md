@@ -29,6 +29,13 @@
 |74|Search a 2D Matrix|Yes|
 |240|Search a 2D Matrix II|Yes|
 
+
+## Sort
+| # | title | solved |
+| :--- | :----: | ----: |
+|88|Merge Sorted Array|Yes|
+
+
 ## DFS and BFS  
 | # | title | solved |
 | :--- | :----: | ----: |
