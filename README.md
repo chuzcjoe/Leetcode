@@ -20,6 +20,7 @@
 |139|Work Break|Yes|
 |518|Coin Change|Yes|
 |64|Minimum Path Sum|Yes|
+|72|Edit Distance|Yes|
 
 ## Matrix
 | # | title | solved |
