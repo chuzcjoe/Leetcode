@@ -21,6 +21,7 @@
 |518|Coin Change|Yes|
 |64|Minimum Path Sum|Yes|
 |72|Edit Distance|Yes|
+|221|Maximal Square|Yes|
 
 ## Matrix
 | # | title | solved |
