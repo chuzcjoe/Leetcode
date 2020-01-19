@@ -55,7 +55,8 @@
 |909|Snakes and Ladders|Yes|
 |1025|Divisor Game|Yes|
 |464|Can I Win|Yes(solve sub-problem)|
-
+|198|House Robber|Yes|
+|85|Maximal Rectangle|No|
 
 ## Stack 
 | # | title | solved |
