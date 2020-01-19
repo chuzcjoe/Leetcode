@@ -26,6 +26,7 @@
 |213|House Robber 2|Yes|
 |337|House Robber 3|Yes|
 |85|Maximal Rectangle|No|
+|91|Decode Ways|Yes|
 
 
 ## Matrix
