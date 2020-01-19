@@ -24,7 +24,9 @@
 |221|Maximal Square|Yes|
 |198|House Robber|Yes|
 |213|House Robber 2|Yes|
+|337|House Robber 3|Yes|
 |85|Maximal Rectangle|No|
+
 
 ## Matrix
 | # | title | solved |
