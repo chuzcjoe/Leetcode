@@ -32,6 +32,7 @@
 | # | title | solved |
 | :--- | :----: | ----: |
 | 278 | Fisrt Bad Version | Yes |
+|35|Search Insert Position|Yes|
 
 ## Matrix
 | # | title | solved |
