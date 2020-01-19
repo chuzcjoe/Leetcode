@@ -28,6 +28,10 @@
 |85|Maximal Rectangle|No|
 |91|Decode Ways|Yes|
 
+## Binary Search
+| # | title | solved |
+| :--- | :----: | ----: |
+| 278 | Fisrt Bad Version | Yes |
 
 ## Matrix
 | # | title | solved |
