@@ -38,6 +38,7 @@
 |153|Find Minimum in Rotated Sorted Array|Yes|
 |154|Find Minimum in Rotated Sorted Array II|Yes|
 |374|Guess Number Higher or Lower|Yes|
+|34|Find First and Last Position of Element in Sorted Array|Yes(find most left and most right index)|
 
 ## Matrix
 | # | title | solved |
