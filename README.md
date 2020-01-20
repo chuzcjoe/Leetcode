@@ -35,6 +35,7 @@
 |35|Search Insert Position|Yes|
 |33|Search in Rotated Sorted Array|Yes(smallest index is tricky!)|
 |81|Search in Rotated Sorted Array II(duplicate numbers)|Yes(search smallest index in O(logn) time!)|
+|153|Find Minimum in Rotated Sorted Array|Yes|
 
 ## Matrix
 | # | title | solved |
