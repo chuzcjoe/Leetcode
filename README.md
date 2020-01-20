@@ -33,6 +33,7 @@
 | :--- | :----: | ----: |
 | 278 | Fisrt Bad Version | Yes |
 |35|Search Insert Position|Yes|
+|33|Search in Rotated Sorted Array|Yes(smallest index is tricky!)|
 
 ## Matrix
 | # | title | solved |
