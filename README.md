@@ -37,6 +37,7 @@
 |81|Search in Rotated Sorted Array II(duplicate numbers)|Yes(search smallest index in O(logn) time!)|
 |153|Find Minimum in Rotated Sorted Array|Yes|
 |154|Find Minimum in Rotated Sorted Array II|Yes|
+|374|Guess Number Higher or Lower|Yes|
 
 ## Matrix
 | # | title | solved |
