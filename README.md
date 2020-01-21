@@ -1,4 +1,4 @@
-# My Progress: 106
+# My Progress: 107
 
 ## Weekly Mock
 |#|title|Category|solved|# Week|
@@ -41,6 +41,7 @@
 |154|Find Minimum in Rotated Sorted Array II|Yes|
 |374|Guess Number Higher or Lower|Yes|
 |34|Find First and Last Position of Element in Sorted Array|Yes(find most left and most right index)|
+|354|Russian Doll Envelopes|Yes(reduce to one dimension, then apply LLS)|
 
 ## Matrix
 | # | title | solved |
