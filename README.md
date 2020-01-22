@@ -26,6 +26,7 @@
 |69|Sqrt(x)|Yes|
 |367|Valid Perfect Square|Yes(bianry search)|
 |397|Integer Replacement|Yes|
+|204|Count Primes|Redo(time exceed)|
 
 ## DP
 | # | title | solved |
