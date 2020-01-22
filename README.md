@@ -1,4 +1,4 @@
-# My Progress: 109
+# My Progress: 110
 
 ## Weekly Mock
 |#|title|Category|solved|# Week|
@@ -20,6 +20,7 @@
 | :--- | :----: | ----: |
 | 7 | Reverse Integer | Yes |
 |165|Comapre Version Numbers|Yes|
+|66|Plus one|Yes|
 
 ## DP
 | # | title | solved |
