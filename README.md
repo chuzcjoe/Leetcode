@@ -22,6 +22,7 @@
 |165|Comapre Version Numbers|Yes|
 |66|Plus one|Yes|
 |258|Add Digits|Yes|
+|67|Add Binary|Yes|
 
 ## DP
 | # | title | solved |
