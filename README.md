@@ -25,6 +25,7 @@
 |67|Add Binary|Yes|
 |69|Sqrt(x)|Yes|
 |367|Valid Perfect Square|Yes(bianry search)|
+|397|Integer Replacement|Yes|
 
 ## DP
 | # | title | solved |
