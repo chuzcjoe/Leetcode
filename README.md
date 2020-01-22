@@ -28,6 +28,7 @@
 |397|Integer Replacement|Yes|
 |204|Count Primes|Redo(time exceed)|
 |1|Two Sum|Yes|
+|15| Three Sum|Yes|
 
 ## DP
 | # | title | solved |
