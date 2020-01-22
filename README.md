@@ -27,6 +27,7 @@
 |367|Valid Perfect Square|Yes(bianry search)|
 |397|Integer Replacement|Yes|
 |204|Count Primes|Redo(time exceed)|
+|1|Two Sum|Yes|
 
 ## DP
 | # | title | solved |
