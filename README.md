@@ -1,4 +1,4 @@
-# My Progress: 113
+# My Progress: 114
 
 ## Weekly Mock
 |#|title|Category|solved|# Week|
@@ -24,6 +24,7 @@
 |258|Add Digits|Yes|
 |67|Add Binary|Yes|
 |69|Sqrt(x)|Yes|
+|367|Valid Perfect Square|Yes(bianry search)|
 
 ## DP
 | # | title | solved |
