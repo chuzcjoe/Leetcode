@@ -29,6 +29,7 @@
 |204|Count Primes|Redo(time exceed)|
 |1|Two Sum|Yes|
 |15| Three Sum|Yes|
+|231|Power of Two|Yes|
 
 ## DP
 | # | title | solved |
