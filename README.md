@@ -15,6 +15,11 @@
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Math
+| # | title | solved |
+| :--- | :----: | ----: |
+| 7 | Reverse Integer | Yes |
+
 ## DP
 | # | title | solved |
 | :--- | :----: | ----: |
