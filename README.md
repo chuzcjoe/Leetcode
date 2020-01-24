@@ -1,4 +1,4 @@
-# My Progress: 118
+# My Progress: 119
 
 ## Weekly Mock
 |#|title|Category|solved|# Week|
@@ -146,6 +146,7 @@
 |113|binary tree sum2|Yes|
 |129|Sum root to leaves|Yes|
 |111|Minimum depth of a tree|Yes|
+|1302|Deepest Leaves Sum|Yes(traverse each level)|
 
 ## Linked List
 |#|title|solved|
