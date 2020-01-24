@@ -1,4 +1,4 @@
-# My Progress: 114
+# My Progress: 118
 
 ## Weekly Mock
 |#|title|Category|solved|# Week|
@@ -91,6 +91,7 @@
 |909|Snakes and Ladders|Yes|
 |1025|Divisor Game|Yes|
 |464|Can I Win|Yes(solve sub-problem)|
+|110|Balanced Bianry Tree|Yes(DFS)|
 
 
 ## Stack 
