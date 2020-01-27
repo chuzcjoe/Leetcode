@@ -96,6 +96,7 @@
 |104|Maximum Depth of Binary Tree|Yes|
 |841|Keys and Rooms|Yes|
 |695|Max Area of Island|Yes(dfs is tricky, set visited cells to 0's)|
+|1254|Number of Closed Islands|Yes(cells can be reached by edge cells will be set to 1's(waster))|
 
 
 ## Stack 
