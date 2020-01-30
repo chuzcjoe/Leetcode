@@ -98,6 +98,7 @@
 |695|Max Area of Island|Yes(dfs is tricky, set visited cells to 0's)|
 |1254|Number of Closed Islands|Yes(cells can be reached by edge cells will be set to 1's(waster))|
 |1034|Coloring A Boarder|Yes(check four directionally connected cells) **redo**!!!|
+|872|Leaf-Similar Trees|Yes|
 
 
 ## Stack 
