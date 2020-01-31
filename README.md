@@ -101,7 +101,7 @@
 |872|Leaf-Similar Trees|Yes|
 |559|Maximum Depth of N-ary Tree|Yes|
 |547|Friend Circle|Yes(DFS+memo)|
-
+|1020|Number of Enclaves|Yes(close to 695)|
 
 ## Stack 
 | # | title | solved |
