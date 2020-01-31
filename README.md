@@ -100,6 +100,7 @@
 |1034|Coloring A Boarder|Yes(check four directionally connected cells) **redo**!!!|
 |872|Leaf-Similar Trees|Yes|
 |559|Maximum Depth of N-ary Tree|Yes|
+|547|Friend Circle|Yes(DFS+memo)|
 
 
 ## Stack 
