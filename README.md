@@ -45,6 +45,7 @@
 |337|House Robber 3|Yes|
 |85|Maximal Rectangle|No|
 |91|Decode Ways|Yes|
+|494|Target Sum|Yes(2 solutions: dp and collections)|
 
 ## Binary Search
 | # | title | solved |
