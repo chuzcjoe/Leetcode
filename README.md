@@ -102,6 +102,7 @@
 |559|Maximum Depth of N-ary Tree|Yes|
 |547|Friend Circle|Yes(DFS+memo)|
 |1020|Number of Enclaves|Yes(close to 695)|
+|802|Find Eventual Safe States|Yes(good dfs problem, help to know the dfs order)|
 
 ## Stack 
 | # | title | solved |
