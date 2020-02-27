@@ -105,6 +105,7 @@
 |1020|Number of Enclaves|Yes(close to 695)|
 |802|Find Eventual Safe States|Yes(good dfs problem, help to know the dfs order)|
 |108|Convert Sorted Array to Binary Search Tree|Yes|
+|994|Rotting Oranges|Yes(should change from 'easy' to 'medium')|
 
 ## Stack 
 | # | title | solved |
