@@ -1,4 +1,4 @@
-# My Progress: 133
+# My Progress: 135
 
 ## Weekly Mock
 |#|title|Category|solved|# Week|
@@ -107,6 +107,7 @@
 |108|Convert Sorted Array to Binary Search Tree|Yes|
 |994|Rotting Oranges|Yes(should change from 'easy' to 'medium')|
 |513|Find Bottom Left Tree Value|Yes(level order search)|
+|515|Find Largest Value in Each Tree Row|Yes(close to 513, level order search)|
 
 ## Stack 
 | # | title | solved |
