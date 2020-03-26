@@ -108,6 +108,7 @@
 |994|Rotting Oranges|Yes(should change from 'easy' to 'medium')|
 |513|Find Bottom Left Tree Value|Yes(level order search)|
 |515|Find Largest Value in Each Tree Row|Yes(close to 513, level order search)|
+|752|Open the Lock|Yes(BFS, to improve runtime, use deque)|
 
 ## Stack 
 | # | title | solved |
