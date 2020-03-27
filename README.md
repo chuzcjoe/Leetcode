@@ -110,6 +110,7 @@
 |515|Find Largest Value in Each Tree Row|Yes(close to 513, level order search)|
 |752|Open the Lock|Yes(BFS, to improve runtime, use deque)|
 |542|01 Matrix|Yes(close to 752)|
+|1091|Shortest Path in Binary Matrix|Yes(template for solving shortest path problem)|
 
 ## Stack 
 | # | title | solved |
