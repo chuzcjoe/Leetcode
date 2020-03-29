@@ -142,7 +142,7 @@
 |47|Permutation 2|Yes|
 |17|Letter Combinations of a Phone Number|Yes|
 |357|Count Numbers with Unique Digits|Yes(but very slow, faster than 5%, check bt [template](https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3%E4%BF%AE%E8%AE%A2%E7%89%88.md))|
-|131|Palindrome Partitioning|Yes(can use template, note: path(reference) vs path[:](value))|
+|131|Palindrome Partitioning|Yes(can use template, note: path(reference) vs path\[:\](value))|
 
 ## String
 |#|title|solved|
