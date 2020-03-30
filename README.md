@@ -146,6 +146,7 @@
 |22|Generate Parentheses|Yes(very slow, better solution: DFS, DP)|
 |1219|Path with Maximum Gold|Backtrack + BFS, **good practice(template)**|
 |1079|Letter Tile Possibilities|follow template|
+|1239|Maximum Length of a Concatenated String with Unique Characters|need to improve run time|
 
 ## String
 |#|title|solved|
