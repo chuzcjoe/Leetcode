@@ -76,6 +76,7 @@
 | # | title | solved |
 | :--- | :----: | ----: |
 |88|Merge Sorted Array|Yes|
+|922|Sort Array By Parity II|tow pointers(tricky)|
 
 
 ## DFS and BFS  
