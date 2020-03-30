@@ -78,6 +78,7 @@
 |88|Merge Sorted Array|Yes|
 |922|Sort Array By Parity II|tow pointers(tricky)|
 |1122|Relative Sort Array|Yes|
+|976|Largest Perimeter Triangle|Yes(Try biggest)|
 
 
 ## DFS and BFS  
