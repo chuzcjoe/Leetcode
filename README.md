@@ -1,4 +1,4 @@
-# My Progress: 142
+# My Progress: 150
 
 ## Weekly Mock
 |#|title|Category|solved|# Week|
