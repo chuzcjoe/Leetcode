@@ -145,6 +145,7 @@
 |131|Palindrome Partitioning|Yes(can use template, note: path(reference) vs path\[:\](value))|
 |22|Generate Parentheses|Yes(very slow, better solution: DFS, DP)|
 |1219|Path with Maximum Gold|Backtrack + BFS, **good practice(template)**|
+|1079|Letter Tile Possibilities|follow template|
 
 ## String
 |#|title|solved|
