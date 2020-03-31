@@ -1,7 +1,7 @@
 # My Progress: 150
 
 ## Weekly Mock
-|#|title|Category|solved|# Week|
+|#|title|Name|solved|# Week|
 | :--- | :----: | ----: |----: |----: |
 |509|Fibonacci Number|Recursive|Yes|Week1|
 |70|Climibing stages|DP|Yes|Week1|
@@ -14,6 +14,14 @@
 |300|longest increasing subsequence|Binary Search O(nlong)|!|Week2|
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
+
+## Weekly Contest 181
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1389|Create Target Array in the Given Order|easy|Yes(sort)|
+|1390|Four Divisors| medium|Yes(Math)|
+|1391|Check if There is a Valid Path in a Grid|medium|Yes(DFS, BFS)|
+|1392|Longest Happy Prefix|Hard|Yes(sliding widnow)|
 
 ## Math
 | # | title | solved |
