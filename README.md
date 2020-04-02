@@ -91,6 +91,8 @@
 | # | title | solved |
 | :--- | :----: | ----: |
 | 1004 | Max Consecutive Ones III | Yes(left and right index) |
+|209|Minimum Size Subarray Sum|Yes(left right index), **similar** to 1004|
+
 
 
 ## Sort
