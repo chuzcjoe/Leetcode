@@ -87,6 +87,11 @@
 |74|Search a 2D Matrix|Yes|
 |240|Search a 2D Matrix II|Yes|
 
+## Sliding Window
+| # | title | solved |
+| :--- | :----: | ----: |
+| 1004 | Max Consecutive Ones III | Yes(left and right index) |
+
 
 ## Sort
 | # | title | solved |
