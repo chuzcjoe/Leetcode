@@ -13,7 +13,7 @@ class Solution(object):
         h = len(image)
         w = len(image[0])
         
-        def  bfs(image,r,c,newColor):
+        def dfs(image,r,c,newColor):
             image[r][c] = newColor
             directions = [[-1,0],[1,0],[0,1],[0,-1]]
             
@@ -26,9 +26,9 @@ class Solution(object):
                     continue
                 
                 if image[x][y] == startColor:
-                    bfs(image,x,y,newColor)
+                    dfs(image,x,y,newColor)
                     
         
-        bfs(image,sr,sc,newColor)
+        dfs(image,sr,sc,newColor)
         
         return image
