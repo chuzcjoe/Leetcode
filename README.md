@@ -15,6 +15,14 @@
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Weekly Contest 182
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1394|Find Lucky Integer in an Array|easy|Yes(Math)|
+|1395|Count Number of Teams| medium|Yes(backtrack)|
+|1396|Design Underground System|medium|Yes(collection.dictionary)|
+|1397|Find All Good Strings|**hard**|**No**(several test cases passed)|
+
 ## Weekly Contest 181
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
