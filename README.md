@@ -15,6 +15,14 @@
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Weekly Contest 183
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1399|Count Largest Group|easy|Yes(sort and count)|
+|1400|Construct K Palindrome Strings| medium|Yes(Math, count odd-occurence numbers)|
+|1401|Circle and Rectangle Overlapping|medium|Yes(Math, find closest points on edge)|
+|1402|Reducing Dishes|**hard**|Yes(Sort)|
+
 ## Weekly Contest 182
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
