@@ -39,6 +39,12 @@
 |1391|Check if There is a Valid Path in a Grid|medium|Yes(DFS, BFS)|
 |1392|Longest Happy Prefix|Hard|Yes(sliding widnow)|
 
+## Weekly Contest 180
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1380|Lucky Numbers in a Matrix|easy|Yes|
+|1381|Design a Stack With Increment Operation|Medium|Stack|
+
 ## Math
 | # | title | solved |
 | :--- | :----: | ----: |
