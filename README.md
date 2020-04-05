@@ -103,6 +103,7 @@
 |904|Fruit Into Baskets|Yes(maintain a hashmap for count)|
 |992|Subarrays with K Different Integers|**hard** Yes(convert to AtMost problem)|
 |930|Binary Subarrays With Sum|Yes(two ways: AtMost and HashMap)|
+|1234|Replace the Substring for Balanced String|Yes(left > right, the return 0)|
 
 
 
