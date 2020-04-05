@@ -1,0 +1,34 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution:
+    def balanceBST(self, root: TreeNode) -> TreeNode:
+        
+        vals = []
+        def inorder(root, vals):
+            if not root:
+                return
+            
+            inorder(root.left, vals)
+            vals.append(root.val)
+            inorder(root.right, vals)
+        
+        inorder(root, vals)
+        
+        def buildTree(nodes, start, end):
+            if start > end:
+                return
+            
+            mid = (start+end)//2
+            new_root = TreeNode(nodes[mid])
+            
+            new_root.left = buildTree(nodes, start, mid - 1)
+            new_root.right = buildTree(nodes, mid+1, end)
+            
+            return new_root
+        
+        return buildTree(vals, 0, len(vals)-1)
