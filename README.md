@@ -44,6 +44,7 @@
 | :--- | :----: | ----: |----: |
 |1380|Lucky Numbers in a Matrix|easy|Yes|
 |1381|Design a Stack With Increment Operation|Medium|Stack|
+|1382|Balance a Binary Search Tree|Medium|**contruct a Binary Search Tree**|
 
 ## Math
 | # | title | solved |
