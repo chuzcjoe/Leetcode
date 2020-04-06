@@ -45,7 +45,7 @@
 |1380|Lucky Numbers in a Matrix|easy|Yes|
 |1381|Design a Stack With Increment Operation|Medium|Stack|
 |1382|Balance a Binary Search Tree|Medium|**contruct a Binary Search Tree**|
-|1383|Maximum Performance of a Team|**hard**|Priority Queue|
+|1383|Maximum Performance of a Team|**hard**|Priority Queue(close to **857**)|
 
 ## Math
 | # | title | solved |
