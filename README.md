@@ -15,7 +15,7 @@
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
-## Weekly Contest 183
+## Biweekly Contest 23
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1399|Count Largest Group|easy|Yes(sort and count)|
