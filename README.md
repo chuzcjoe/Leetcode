@@ -1,4 +1,4 @@
-# My Progress: 180
+# My Progress: 181
 
 ## Weekly Mock
 |#|title|Name|solved|# Week|
@@ -134,7 +134,7 @@
 |922|Sort Array By Parity II|tow pointers(tricky)|
 |1122|Relative Sort Array|Yes|
 |976|Largest Perimeter Triangle|Yes(Try biggest)|
-
+|23|Merge k Sorted Lists|**hard**|
 
 ## DFS and BFS  
 | # | title | solved |
