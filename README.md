@@ -23,6 +23,14 @@
 |1401|Circle and Rectangle Overlapping|medium|Yes(Math, find closest points on edge)|
 |1402|Reducing Dishes|**hard**|Yes(Sort)|
 
+## Weekly Contest 183
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1403|Minimum Subsequence in Non-Increasing Order|easy|Sort|
+|1404|Number of Steps to Reduce a Number in Binary Representation to One|easy|Math|
+|1405|Longest Happy String|medium|Greedy|
+|1406|Stone Game III|hard|**DP**|
+
 ## Weekly Contest 182
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
