@@ -86,6 +86,7 @@
 |85|Maximal Rectangle|No|
 |91|Decode Ways|Yes|
 |494|Target Sum|Yes(2 solutions: dp and collections)|
+|877|Stone Game|2D DP, DP\[i\]\[j\]: more stones one can get than another|
 
 ## Binary Search
 | # | title | solved |
