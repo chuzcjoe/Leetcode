@@ -113,6 +113,7 @@
 |930|Binary Subarrays With Sum|Yes(two ways: AtMost and HashMap)|
 |1234|Replace the Substring for Balanced String|Yes(left > right, the return 0)|
 |1248|Count Number of Nice Subarrays|1. AtMost strategy 2. count|
+|1358|Number of Substrings Containing All Three Characters|count # of letter on the left|
 
 
 
