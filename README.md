@@ -126,6 +126,7 @@
 |3|Longest Substring Without Repeating Characters|find the longest subarray end at right|
 |567|Permutation in String|backtrack(TLE), use COUNT|
 |424|Longest Repeating Character Replacement|left and right index + count|
+|1208|Get Equal Substrings Within Budget|left+right index, record cur maxCount value|
 
 
 
