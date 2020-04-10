@@ -125,6 +125,7 @@
 |1358|Number of Substrings Containing All Three Characters|count # of letter on the left|
 |3|Longest Substring Without Repeating Characters|find the longest subarray end at right|
 |567|Permutation in String|backtrack(TLE), use COUNT|
+|424|Longest Repeating Character Replacement|left and right index + count|
 
 
 
