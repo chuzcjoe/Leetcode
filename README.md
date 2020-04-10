@@ -124,6 +124,7 @@
 |1248|Count Number of Nice Subarrays|1. AtMost strategy 2. count|
 |1358|Number of Substrings Containing All Three Characters|count # of letter on the left|
 |3|Longest Substring Without Repeating Characters|find the longest subarray end at right|
+|567|Permutation in String|backtrack(TLE), use COUNT|
 
 
 
