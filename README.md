@@ -71,6 +71,11 @@
 |15| Three Sum|Yes|
 |231|Power of Two|Yes|
 
+## Graph
+| # | title | solved |
+| :--- | :----: | ----: |
+| 310| Minimum Height Trees | start from leaves, delete and find new leaves until n <= 2 |
+
 ## DP
 | # | title | solved |
 | :--- | :----: | ----: |
