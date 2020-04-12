@@ -76,6 +76,7 @@
 | :--- | :----: | ----: |
 | 310| Minimum Height Trees | start from leaves, delete and find new leaves until n <= 2 |
 |399 | Evaluate Division | one test case is wrong???|
+|149|Max Points on a Line|**hard**, brute search|
 
 ## DP
 | # | title | solved |
