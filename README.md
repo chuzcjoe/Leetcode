@@ -86,6 +86,7 @@
 |399 | Evaluate Division | one test case is wrong???|
 |149|Max Points on a Line|**hard**, brute search|
 |207|Course Schedule|DFS + extra array for checking if cur node will form a loop|
+|210|Course Schedule II|BFS + queue|
 
 ## DP
 | # | title | solved |
