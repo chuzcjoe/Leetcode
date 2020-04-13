@@ -87,6 +87,7 @@
 |149|Max Points on a Line|**hard**, brute search|
 |207|Course Schedule|DFS + extra array for checking if cur node will form a loop|
 |210|Course Schedule II|BFS + queue|
+|1377|Frog Position After T Seconds|BFS + queue, remove neighbors that have been visited|
 
 ## DP
 | # | title | solved |
