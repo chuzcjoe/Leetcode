@@ -261,7 +261,7 @@
 |328|Odd Even Linked List|Yes(break down to 2 linked list)|
 |237|Delete a Node in a Linked List|Yes|
 |29|Remove nth Node|Yes|
-|83|remove duplicate numbers in linked list|Yes|
+|83|remove duplicate numbers in linked list|prev + cur|
 |203|Remove Linked List Elements|Yes|
 
 ## Random
