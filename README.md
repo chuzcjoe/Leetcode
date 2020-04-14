@@ -265,6 +265,7 @@
 |203|Remove Linked List Elements|Yes|
 |2 | Add Two Numbers | get sum first and then make a linked list|
 |445 | Add Two Numbers II | same as 2 |
+| 21 | Merge Two Sorted Lists | add the smaller one each time |
 
 ## Random
 |#|title|solved|
