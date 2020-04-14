@@ -264,6 +264,7 @@
 |83|remove duplicate numbers in linked list|prev + cur|
 |203|Remove Linked List Elements|Yes|
 |2 | Add Two Numbers | get sum first and then make a linked list|
+|445 | Add Two Numbers II | same as 2 |
 
 ## Random
 |#|title|solved|
