@@ -263,6 +263,7 @@
 |29|Remove nth Node|Yes|
 |83|remove duplicate numbers in linked list|prev + cur|
 |203|Remove Linked List Elements|Yes|
+|2 | Add Two Numbers | get sum first and then make a linked list|
 
 ## Random
 |#|title|solved|
