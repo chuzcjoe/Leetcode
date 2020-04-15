@@ -274,6 +274,7 @@
 |2 | Add Two Numbers | get sum first and then make a linked list|
 |445 | Add Two Numbers II | same as 2 |
 | 21 | Merge Two Sorted Lists | add the smaller one each time |
+|1171 | Remove Zero Sum Consecutive Nodes from Linked List| prefix sum is the key|
 
 ## Random
 |#|title|solved|
