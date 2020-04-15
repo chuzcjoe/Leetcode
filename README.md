@@ -23,6 +23,14 @@
 |1401|Circle and Rectangle Overlapping|medium|Yes(Math, find closest points on edge)|
 |1402|Reducing Dishes|**hard**|Yes(Sort)|
 
+## Biweekly Contest 23
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1385|Find the Distance Value Between Two Arrays|easy|Array|
+|1386|Cinema Seat Allocation|medium|Array|
+|1387|Sort Integers by The Power Value|medium|Sort|
+|1388|Pizza With 3n Slices|hard|didn't solve it!!!|
+
 ## Weekly Contest 184
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
