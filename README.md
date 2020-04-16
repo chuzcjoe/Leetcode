@@ -153,7 +153,7 @@
 |567|Permutation in String|backtrack(TLE), use COUNT|
 |424|Longest Repeating Character Replacement|left and right index + count|
 |1208|Get Equal Substrings Within Budget|left+right index, record cur maxCount value|
-
+|5|Longest Palindromic Substring|start from center, left-=1 rigth += 1|
 
 
 ## Sort
