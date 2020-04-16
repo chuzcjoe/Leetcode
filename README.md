@@ -276,6 +276,7 @@
 |445 | Add Two Numbers II | same as 2 |
 | 21 | Merge Two Sorted Lists | add the smaller one each time |
 |1171 | Remove Zero Sum Consecutive Nodes from Linked List| prefix sum is the key|
+|160| Intersection of Two Linked Lists|if reach end, switch head|
 
 ## Random
 |#|title|solved|
