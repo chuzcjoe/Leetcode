@@ -269,6 +269,7 @@
 |:---|:----:|----:|
 |206|Reverse Linked List|Yes(remember the order)|
 |141|Linked List Cycle|Yes|
+|142|Linked List Cycle II|fast and slow pointers, math problem|
 |24|Swap Nodes in Paris|Yes(prev, a, b)|
 |328|Odd Even Linked List|Yes(break down to 2 linked list)|
 |237|Delete a Node in a Linked List|Yes|
