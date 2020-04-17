@@ -208,6 +208,7 @@
 |150|Evaluate Reverse Polish Notation|Yes|
 |394|Decode String|Yes|
 |224|Basic Calculator|Yes|
+|1019| Next Greater Node In Linked List|good question, **REDO**|
 
 ## Queue
 | # | title | solved |
