@@ -209,6 +209,7 @@
 |394|Decode String|Yes|
 |224|Basic Calculator|Yes|
 |1019| Next Greater Node In Linked List|good question, **REDO**|
+|739| Daily Temperatures|Similar to 1019|
 
 ## Queue
 | # | title | solved |
