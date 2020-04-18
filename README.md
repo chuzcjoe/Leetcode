@@ -290,6 +290,7 @@
 |1171 | Remove Zero Sum Consecutive Nodes from Linked List| prefix sum is the key|
 |160| Intersection of Two Linked Lists|if reach end, switch head|
 |92| Reverse Linked List II|reverse first then concat three sub-link|
+|82| Remove Duplicates from Sorted List II|prev+cur, dummy for first non-duplicated node|
 
 ## Random
 |#|title|solved|
