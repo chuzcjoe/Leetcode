@@ -15,6 +15,14 @@
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 24
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1413| Minimum Value to Get Positive Step by Step Sum|easy|Prefix Sum|
+|1414| Find the Minimum Number of Fibonacci Numbers Whose Sum Is K|medium|greedy|
+|1415|The k-th Lexicographical String of All Happy Strings of Length n|medium|recursive|
+|1416| Restore The Array|hard|DP|
+
 ## Biweekly Contest 23
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
@@ -23,7 +31,7 @@
 |1401|Circle and Rectangle Overlapping|medium|Yes(Math, find closest points on edge)|
 |1402|Reducing Dishes|**hard**|Yes(Sort)|
 
-## Biweekly Contest 23
+## Biweekly Contest 22
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1385|Find the Distance Value Between Two Arrays|easy|Array|
