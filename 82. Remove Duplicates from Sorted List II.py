@@ -13,22 +13,10 @@ class Solution(object):
         if not head:
             return None
         
-        prev = ListNode(None)
+        prev = dummy = ListNode(None)
         prev.next = head
-        dummy = head
         cur = head
         flg = False
-        
-        counter = collections.Counter()
-        while head:
-            counter[head.val] += 1
-            head = head.next
-        
-        while dummy:
-            if counter[dummy.val] == 1:
-                break
-            else:
-                dummy = dummy.next
             
         
         while cur and cur.next:
@@ -45,7 +33,7 @@ class Solution(object):
             prev = cur
             cur = cur.next
         
-        return dummy
+        return dummy.next
             
             
             
