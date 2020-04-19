@@ -39,6 +39,14 @@
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 185
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1417| Reformat The String| easy| String|
+|1418| Display Table of Food Orders in a Restaurant|medium|dictionary|
+|1419| Minimum Number of Frogs Croaking|medium|**the solution is very tricky**|
+|1420| Build Array Where You Can Find The Maximum Exactly K Comparisons|hard|**3D dp**, not easy to come up with|
+
 ## Weekly Contest 184
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
