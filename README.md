@@ -300,6 +300,7 @@
 |92| Reverse Linked List II|reverse first then concat three sub-link|
 |82| Remove Duplicates from Sorted List II|prev+cur, dummy for first non-duplicated node|
 |148|Sort List|medium|merge sort, **cut down the linked list in the half**|
+|86| Partition List|medium|use prev1 and prev2 to make new list|
 
 ## Random
 |#|title|solved|
