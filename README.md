@@ -302,6 +302,7 @@
 |148|Sort List|medium|merge sort, **cut down the linked list in the half**|
 |86| Partition List|medium|use prev1 and prev2 to make new list|
 |147| Insertion Sort List|medium|prev.next = cur.next, insert cur.val into right place|
+|725| Split Linked List in Parts|medium|first think: what is the length for each part?|
 
 ## Random
 |#|title|solved|
