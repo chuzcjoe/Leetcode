@@ -181,6 +181,10 @@
 |976|Largest Perimeter Triangle|Yes(Try biggest)|
 |23|Merge k Sorted Lists|**hard**|
 
+## DFS
+| # | title | note |
+|1376|Time Needed to Inform All Employees|time=max(manager's employees)+informTime(manager)|
+
 ## DFS and BFS  
 | # | title | solved |
 | :--- | :----: | ----: |
