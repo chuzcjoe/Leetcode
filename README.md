@@ -185,6 +185,7 @@
 | # | title | note |
 | :--- | :----: | ----: |
 |1376|Time Needed to Inform All Employees|time=max(manager's employees)+informTime(manager)|
+|1319| Number of Operations to Make Network Connected|DFS finds connected graphs(all the nodes reachable)|
 
 ## DFS and BFS  
 | # | title | solved |
