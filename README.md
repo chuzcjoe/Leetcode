@@ -320,3 +320,8 @@
 |382|Linked List Random Node|Yes|
 |380|Insert Delete GetRandom O(1)|Tes|
 |381|Insert Delete GetRandom O(1) - Duplicates allowed|Yes|
+
+## Array
+|#|title|note|
+|:---|:----:|----:|
+|665| Non-decreasing Array|detect first decrease pair, analyze two possible cases|
