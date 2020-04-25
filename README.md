@@ -189,6 +189,7 @@
 |1145| Binary Tree Coloring Game|Find connected nodes and run dfs on each node to find the total count|
 |199| Binary Tree Right Side View|level order traverse + DFS|
 |105| Construct Binary Tree from Preorder and Inorder Traversal|DFS solve left and right sub-tree|
+|721| Accounts Merge|DFS or Union Find|
 
 ## DFS and BFS  
 | # | title | solved |
