@@ -188,6 +188,7 @@
 |1319| Number of Operations to Make Network Connected|DFS finds connected graphs(all the nodes reachable)|
 |1145| Binary Tree Coloring Game|Find connected nodes and run dfs on each node to find the total count|
 |199| Binary Tree Right Side View|level order traverse + DFS|
+|105| Construct Binary Tree from Preorder and Inorder Traversal|DFS solve left and right sub-tree|
 
 ## DFS and BFS  
 | # | title | solved |
