@@ -190,6 +190,7 @@
 |199| Binary Tree Right Side View|level order traverse + DFS|
 |105| Construct Binary Tree from Preorder and Inorder Traversal|DFS solve left and right sub-tree|
 |721| Accounts Merge|DFS or Union Find|
+|934| Shortest Bridge|DFS+BFS, DFS for island deetction and BFS for searching shortest path|
 
 ## DFS and BFS  
 | # | title | solved |
