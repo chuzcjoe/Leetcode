@@ -42,6 +42,13 @@
 ## Weekly Contest 185
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1422| Maximum Score After Splitting a String|easy|Use counter|
+|1423| Maximum Points You Can Obtain from Cards|medium|Use sliding window to find the sub-array with max sum|
+|1424| Diagonal Traverse II|medium|Indexes on the diagonal have the same SUM|
+
+## Weekly Contest 185
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1417| Reformat The String| easy| String|
 |1418| Display Table of Food Orders in a Restaurant|medium|dictionary|
 |1419| Minimum Number of Frogs Croaking|medium|**the solution is very tricky**|
