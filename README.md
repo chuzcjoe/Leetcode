@@ -252,6 +252,7 @@
 | 215 | Kth Largetst element in an Array| Yes |
 |347|TopK frequent element|Yes|
 |20| Valid Parentheses|a valid case results in an empty queue|
+|862| Shortest Subarray with Sum at Least K|Keep increasing prefix sum|
 
 ## Backtracking
 |#|title|solved|
