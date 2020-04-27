@@ -255,6 +255,7 @@
 |20| Valid Parentheses|a valid case results in an empty queue|
 |862| Shortest Subarray with Sum at Least K|Keep increasing prefix sum|
 |1425| Constrained Subset Sum|Keep a decreasing queue|
+|743| Network Delay Time|BFS + deque|
 
 ## Backtracking
 |#|title|solved|
