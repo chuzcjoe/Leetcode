@@ -199,6 +199,7 @@
 |105| Construct Binary Tree from Preorder and Inorder Traversal|DFS solve left and right sub-tree|
 |721| Accounts Merge|DFS or Union Find|
 |934| Shortest Bridge|DFS+BFS, DFS for island deetction and BFS for searching shortest path|
+|988| Smallest String Starting From Leaf|leaf is a node where left and right are both None|
 
 ## DFS and BFS  
 | # | title | solved |
