@@ -277,6 +277,7 @@
 |1079|Letter Tile Possibilities|follow template|
 |1239|Maximum Length of a Concatenated String with Unique Characters|need to improve run time|
 |784|Letter Case Permutation|two cases in backtrack: lower case and upper case|
+|491| Increasing Subsequences|backtracking|
 
 ## String
 |#|title|solved|
