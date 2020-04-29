@@ -201,6 +201,11 @@
 |934| Shortest Bridge|DFS+BFS, DFS for island deetction and BFS for searching shortest path|
 |988| Smallest String Starting From Leaf|leaf is a node where left and right are both None|
 
+## BFS
+| # | title | note |
+| :--- | :----: | ----: |
+|116| Populating Next Right Pointers in Each Node|Level order traverse|
+
 ## DFS and BFS  
 | # | title | solved |
 | :--- | :----: | ----: |
