@@ -205,6 +205,7 @@
 | # | title | note |
 | :--- | :----: | ----: |
 |116| Populating Next Right Pointers in Each Node|Level order traverse|
+|117| Populating Next Right Pointers in Each Node II|Same as 116|
 
 ## DFS and BFS  
 | # | title | solved |
