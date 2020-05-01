@@ -137,6 +137,7 @@
 |494|Target Sum|Yes(2 solutions: dp and collections)|
 |877|Stone Game|2D DP, DP\[i\]\[j\]: more stones one can get than another|
 |53| Maximum Subarray|dp\[i\] means max subarray ending at index i|
+|576| Out of Boundary Paths|**3D DP**|
 
 ## Binary Search
 | # | title | solved |
