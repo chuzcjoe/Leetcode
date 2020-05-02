@@ -39,7 +39,7 @@
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
-## Weekly Contest 185
+## Weekly Contest 186
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1422| Maximum Score After Splitting a String|easy|Use counter|
