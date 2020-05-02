@@ -204,6 +204,7 @@
 |1028| Recover a Tree From Preorder Traversal|Good problem|
 |332| Reconstruct Itinerary|REDO|
 |109| Convert Sorted List to Binary Search Tree|Find mid point value as new root|
+|114| Flatten Binary Tree to Linked List|Restore preorder of the tree, then build new tree|
 
 ## BFS
 | # | title | note |
