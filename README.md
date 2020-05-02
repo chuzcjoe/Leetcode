@@ -203,6 +203,7 @@
 |988| Smallest String Starting From Leaf|leaf is a node where left and right are both None|
 |1028| Recover a Tree From Preorder Traversal|Good problem|
 |332| Reconstruct Itinerary|REDO|
+|109| Convert Sorted List to Binary Search Tree|Find mid point value as new root|
 
 ## BFS
 | # | title | note |
