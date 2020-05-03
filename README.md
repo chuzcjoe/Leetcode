@@ -206,6 +206,7 @@
 |109| Convert Sorted List to Binary Search Tree|Find mid point value as new root|
 |114| Flatten Binary Tree to Linked List|Restore preorder of the tree, then build new tree|
 |980| Unique Paths III|DFS+memo|
+|1192| Critical Connections in a Network|Good question(Tarjan algorithm), **REDO**|
 
 ## BFS
 | # | title | note |
