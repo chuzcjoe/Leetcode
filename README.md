@@ -1,4 +1,4 @@
-# My Progress: 246
+# My Progress: 250
 
 ## Weekly Mock
 |#|title|Name|solved|# Week|
@@ -207,6 +207,7 @@
 |114| Flatten Binary Tree to Linked List|Restore preorder of the tree, then build new tree|
 |980| Unique Paths III|DFS+memo|
 |1192| Critical Connections in a Network|Good question(Tarjan algorithm), **REDO**|
+|897| Increasing Order Search Tree|Inorder traverse to get all the nodes|
 
 ## BFS
 | # | title | note |
