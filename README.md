@@ -319,6 +319,7 @@
 |129|Sum root to leaves|Yes|
 |111|Minimum depth of a tree|Yes|
 |1302|Deepest Leaves Sum|Yes(traverse each level)|
+|1110| Delete Nodes And Return Forest|DFS is the key, remove node + set children to None|
 
 ## Linked List
 |#|title|solved|
