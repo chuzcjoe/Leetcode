@@ -320,6 +320,7 @@
 |111|Minimum depth of a tree|Yes|
 |1302|Deepest Leaves Sum|Yes(traverse each level)|
 |1110| Delete Nodes And Return Forest|DFS is the key, remove node + set children to None|
+|107| Binary Tree Level Order Traversal II|BFS for level traverse|
 
 ## Linked List
 |#|title|solved|
