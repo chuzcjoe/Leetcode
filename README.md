@@ -328,6 +328,7 @@
 |1022| Sum of Root To Leaf Binary Numbers|DFS to reach the leaf nodes to get the root-to-leaf path|
 |654| Maximum Binary Tree|DFS build root.left and root.right|
 |1008| Construct Binary Search Tree from Preorder Traversal|DFS for find root.left and root.right|
+|993| Cousins in Binary Tree|DFS finds depth and parent node|
 
 ## Linked List
 |#|title|solved|
