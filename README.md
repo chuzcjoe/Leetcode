@@ -329,6 +329,7 @@
 |654| Maximum Binary Tree|DFS build root.left and root.right|
 |1008| Construct Binary Search Tree from Preorder Traversal|DFS for find root.left and root.right|
 |993| Cousins in Binary Tree|DFS finds depth and parent node|
+|637| Average of Levels in Binary Tree|BFS for level traverse|
 
 ## Linked List
 |#|title|solved|
