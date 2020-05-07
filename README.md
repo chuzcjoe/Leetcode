@@ -326,6 +326,7 @@
 |404| Sum of Left Leaves|BFS and DFS are provided|
 |669| Trim a Binary Search Tree|DFS: if node.val < L, find right subtree; if node.val > R, find left subtree|
 |1022| Sum of Root To Leaf Binary Numbers|DFS to reach the leaf nodes to get the root-to-leaf path|
+|654| Maximum Binary Tree|DFS build root.left and root.right|
 
 ## Linked List
 |#|title|solved|
