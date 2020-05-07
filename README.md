@@ -334,6 +334,7 @@
 |543| Diameter of Binary Tree|**Good Question**, similar to **687**. DFS for finding the longest path for left and right subtree|
 |572| Subtree of Another Tree|DFS finds if left and right subtree are identical|
 |889| Construct Binary Tree from Preorder and Postorder Traversal|The property of pre and post determines that we can split these two order into new subset and contruct left subtree and right subtree|
+|1026| Maximum Difference Between Node and Ancestor|The definition of ancestor is important. We keep track of the min and max values along the path from root to leaf, then the max difference would be max-min|
 
 ## Linked List
 |#|title|solved|
