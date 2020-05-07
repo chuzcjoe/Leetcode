@@ -333,6 +333,7 @@
 |1325| Delete Leaves With a Given Value|DFS check if node is leaf and node.val==target, then return None|
 |543| Diameter of Binary Tree|**Good Question**, similar to **687**. DFS for finding the longest path for left and right subtree|
 |572| Subtree of Another Tree|DFS finds if left and right subtree are identical|
+|889| Construct Binary Tree from Preorder and Postorder Traversal|The property of pre and post determines that we can split these two order into new subset and contruct left subtree and right subtree|
 
 ## Linked List
 |#|title|solved|
