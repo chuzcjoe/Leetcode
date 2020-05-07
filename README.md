@@ -324,6 +324,7 @@
 |530| Minimum Absolute Difference in BST|Inorder traverse ensures that we get a sorted result from a BST|
 |437| Path Sum III|Two ways: 1. run dfs on each node 2. hashmap storing prefix sum|
 |404| Sum of Left Leaves|BFS and DFS are provided|
+|669| Trim a Binary Search Tree|DFS: if node.val < L, find right subtree; if node.val > R, find left subtree|
 
 ## Linked List
 |#|title|solved|
