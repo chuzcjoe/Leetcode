@@ -350,12 +350,10 @@
 |725| Split Linked List in Parts|medium, first think: what is the length for each part?|
 |143| Reorder List|medium, get two list, start from most left and most right|
 
-##
-## Random
+## Heap
 |#|title|solved|
 |:---|:----:|----:|
-|621|Task Scheduler|Always process the most frequent jobs, good explaination [here](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation
-)|
+|621|Task Scheduler|Always process the most frequent jobs, good explaination [here](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation)|
 
 ## Random
 |#|title|solved|
