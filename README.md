@@ -330,6 +330,7 @@
 |1008| Construct Binary Search Tree from Preorder Traversal|DFS for find root.left and root.right|
 |993| Cousins in Binary Tree|DFS finds depth and parent node|
 |637| Average of Levels in Binary Tree|BFS for level traverse|
+|1325| Delete Leaves With a Given Value|DFS check if node is leaf and node.val==target, then return None|
 
 ## Linked List
 |#|title|solved|
