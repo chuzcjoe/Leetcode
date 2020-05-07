@@ -332,6 +332,7 @@
 |637| Average of Levels in Binary Tree|BFS for level traverse|
 |1325| Delete Leaves With a Given Value|DFS check if node is leaf and node.val==target, then return None|
 |543| Diameter of Binary Tree|**Good Question**, similar to **687**. DFS for finding the longest path for left and right subtree|
+|572| Subtree of Another Tree|DFS finds if left and right subtree are identical|
 
 ## Linked List
 |#|title|solved|
