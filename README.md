@@ -335,6 +335,7 @@
 |572| Subtree of Another Tree|DFS finds if left and right subtree are identical|
 |889| Construct Binary Tree from Preorder and Postorder Traversal|The property of pre and post determines that we can split these two order into new subset and contruct left subtree and right subtree|
 |1026| Maximum Difference Between Node and Ancestor|The definition of ancestor is important. We keep track of the min and max values along the path from root to leaf, then the max difference would be max-min|
+|508| Most Frequent Subtree Sum|Bottom-up approach for getting all the subtree sums|
 
 ## Linked List
 |#|title|solved|
