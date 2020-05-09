@@ -339,6 +339,7 @@
 |1372| Longest ZigZag Path in a Binary Tree|The key is to analyse the basic unit structure. root->left-right, root->right-left.|
 |958| Check Completeness of a Binary Tree|Level traverse and find the first None node, keep looking if valid nodes exisit after it.|
 |96| Unique Binary Search Trees|**DP solution** The special property of BST determines that for root j==3, and node values range from 1 to 5, we have 2 left nodes and 2 right nodes.|
+|297| Serialize and Deserialize Binary Tree|Preorder to serialize a tree and then dfs to find the left subtree and right subtree.**in dfs, do not send a copy of data, keep the original**|
 
 ## Linked List
 |#|title|solved|
