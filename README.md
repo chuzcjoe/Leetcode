@@ -338,6 +338,7 @@
 |508| Most Frequent Subtree Sum|Bottom-up approach for getting all the subtree sums|
 |1372| Longest ZigZag Path in a Binary Tree|The key is to analyse the basic unit structure. root->left-right, root->right-left.|
 |958| Check Completeness of a Binary Tree|Level traverse and find the first None node, keep looking if valid nodes exisit after it.|
+|96| Unique Binary Search Trees|**DP solution** The special property of BST determines that for root j==3, and node values range from 1 to 5, we have 2 left nodes and 2 right nodes.|
 
 ## Linked List
 |#|title|solved|
