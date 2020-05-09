@@ -337,6 +337,7 @@
 |1026| Maximum Difference Between Node and Ancestor|The definition of ancestor is important. We keep track of the min and max values along the path from root to leaf, then the max difference would be max-min|
 |508| Most Frequent Subtree Sum|Bottom-up approach for getting all the subtree sums|
 |1372| Longest ZigZag Path in a Binary Tree|The key is to analyse the basic unit structure. root->left-right, root->right-left.|
+|958| Check Completeness of a Binary Tree|Level traverse and find the first None node, keep looking if valid nodes exisit after it.|
 
 ## Linked List
 |#|title|solved|
