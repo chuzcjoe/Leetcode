@@ -342,6 +342,7 @@
 |297| Serialize and Deserialize Binary Tree|Preorder to serialize a tree and then dfs to find the left subtree and right subtree.**in dfs, do not send a copy of data, keep the original**|
 |652| Find Duplicate Subtrees|Hashtable + subtree serialize|
 |863| All Nodes Distance K in Binary Tree|Build graph and run dfs.|
+|450| Delete Node in a BST|Two solutions provided: 1. inorder traverse+buildTree 2. DFS updates left and right nodes|
 
 ## Linked List
 |#|title|solved|
