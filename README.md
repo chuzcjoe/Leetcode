@@ -128,6 +128,11 @@
 |210|Course Schedule II|BFS + queue|
 |1377|Frog Position After T Seconds|BFS + queue, remove neighbors that have been visited|
 
+## Prefix Sum
+| # | title | solved |
+| :--- | :----: | ----: |
+|304| Range Sum Query 2D - Immutable|dp\[i]\[j] stores the element sum from arr\[i]\[j] to arr\[r-1]\[c-1]|
+
 ## DP
 | # | title | solved |
 | :--- | :----: | ----: |
