@@ -39,6 +39,14 @@
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 187
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1436| Destination City|easy|Array|
+|1437| Check If All 1's Are at Least Length K Places Away|medium|Array|
+|1438| Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|medium|Heap|
+|1439| Find the Kth Smallest Sum of a Matrix With Sorted Rows|hard||Heap, close to 373.|
+
 ## Weekly Contest 186
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
