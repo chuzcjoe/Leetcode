@@ -39,6 +39,14 @@
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 188
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1441| Build an Array With Stack Operations|easy|Array|
+|1442| Count Triplets That Can Form Two Arrays of Equal XOR|medium|Prefix Sum, Assume a == b, thus a ^ a = b ^ a, thus 0 = b ^ a|
+|1443| Minimum Time to Collect All Apples in a Tree|medium|Bottom-up DFS|
+
+
 ## Weekly Contest 187
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
