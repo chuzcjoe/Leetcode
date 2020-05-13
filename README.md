@@ -15,6 +15,14 @@
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 25
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1431| Kids With the Greatest Number of Candies|easy|Array|
+|1432| Max Difference You Can Get From Changing an Integer|medium|String|
+|1433| Check If a String Can Break Another String|medium|String|
+|1434| Number of Ways to Wear Different Hats to Each Other|hard|DP|
+
 ## Biweekly Contest 24
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
