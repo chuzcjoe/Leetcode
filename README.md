@@ -129,6 +129,7 @@ In this repo, I did not list those common and easy problems.
 |1260| Shift 2D Grid|Array|
 |888| Fair Candy Swap|Set, find target value in another set|
 |1089| Duplicate Zeros|Array|
+|896| Monotonic Array|Compare adjacent elements|
 
 ## Math
 | # | title | solved |
