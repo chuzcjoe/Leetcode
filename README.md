@@ -152,6 +152,11 @@
 ## DP
 | # | title | solved |
 | :--- | :----: | ----: |
+|416| Partition Equal Subset Sum|DP or set sum|
+
+## DP
+| # | title | solved |
+| :--- | :----: | ----: |
 | 42 | Trapping Rain Water | Yes |
 |139|Work Break|Yes|
 |518|Coin Change|Yes|
