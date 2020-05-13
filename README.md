@@ -119,6 +119,12 @@ In this repo, I did not list those common and easy problems.
 |1382|Balance a Binary Search Tree|Medium|**contruct a Binary Search Tree**|
 |1383|Maximum Performance of a Team|**hard**|Priority Queue(close to **857**)|
 
+## Array
+|#|title|note|
+|:---|:----:|----:|
+|665| Non-decreasing Array|detect first decrease pair, analyze two possible cases|
+|1002| Find Common Characters|One pass(though easy question, pretty tricky)|
+
 ## Math
 | # | title | solved |
 | :--- | :----: | ----: |
@@ -419,7 +425,4 @@ In this repo, I did not list those common and easy problems.
 |380|Insert Delete GetRandom O(1)|Tes|
 |381|Insert Delete GetRandom O(1) - Duplicates allowed|Yes|
 
-## Array
-|#|title|note|
-|:---|:----:|----:|
-|665| Non-decreasing Array|detect first decrease pair, analyze two possible cases|
+
