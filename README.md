@@ -1,4 +1,5 @@
 # My Progress: 300
+In this repo, I did not list those common and easy problems.
 
 ## Weekly Mock
 |#|title|Name|solved|# Week|
