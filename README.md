@@ -125,6 +125,7 @@ In this repo, I did not list those common and easy problems.
 |665| Non-decreasing Array|detect first decrease pair, analyze two possible cases|
 |1002| Find Common Characters|One pass(though easy question, pretty tricky)|
 |1200| Minimum Absolute Difference|Sort + hashmap|
+|867| Transpose Matrix|A\[i]\[j]==new_A\[j]\[i]|
 
 ## Math
 | # | title | solved |
