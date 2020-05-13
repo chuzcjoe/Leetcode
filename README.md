@@ -127,6 +127,7 @@ In this repo, I did not list those common and easy problems.
 |1200| Minimum Absolute Difference|Sort + hashmap|
 |867| Transpose Matrix|A\[i]\[j]==new_A\[j]\[i]|
 |1260| Shift 2D Grid|Array|
+|888| Fair Candy Swap|Set, find target value in another set.|
 
 ## Math
 | # | title | solved |
