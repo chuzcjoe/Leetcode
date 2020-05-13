@@ -124,6 +124,7 @@ In this repo, I did not list those common and easy problems.
 |:---|:----:|----:|
 |665| Non-decreasing Array|detect first decrease pair, analyze two possible cases|
 |1002| Find Common Characters|One pass(though easy question, pretty tricky)|
+|1200| Minimum Absolute Difference|Sort + hashmap|
 
 ## Math
 | # | title | solved |
