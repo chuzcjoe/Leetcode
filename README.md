@@ -126,6 +126,7 @@ In this repo, I did not list those common and easy problems.
 |1002| Find Common Characters|One pass(though easy question, pretty tricky)|
 |1200| Minimum Absolute Difference|Sort + hashmap|
 |867| Transpose Matrix|A\[i]\[j]==new_A\[j]\[i]|
+|1260| Shift 2D Grid|Array|
 
 ## Math
 | # | title | solved |
