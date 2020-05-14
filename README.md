@@ -130,7 +130,7 @@ In this repo, I did not list those common and easy problems.
 |888| Fair Candy Swap|Set, find target value in another set|
 |1089| Duplicate Zeros|Array|
 |896| Monotonic Array|Compare adjacent elements|
-|122| Best Time to Buy and Sell Stock II|Always buy ant valley and sell at next peak, good graph explaination[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/208241/Explanation-for-the-dummy-like-me.]|
+|122| Best Time to Buy and Sell Stock II|Always buy ant valley and sell at next peak, (good graph explaination)[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/208241/Explanation-for-the-dummy-like-me.]|
 
 ## Math
 | # | title | solved |
