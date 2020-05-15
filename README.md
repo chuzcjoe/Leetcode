@@ -141,6 +141,7 @@ In this repo, I did not list those common and easy problems.
 |1018| Binary Prefix Divisible By 5|Bit manipulation|
 |674| Longest Continuous Increasing Subsequence|One pas, find start and end|
 |724| Find Pivot Index|Typical prefix sum|
+|849| Maximize Distance to Closest Person|find left 1 and right 1, between these two are all one's|
 
 ## Math
 | # | title | solved |
