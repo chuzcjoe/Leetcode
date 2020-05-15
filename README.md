@@ -136,6 +136,7 @@ In this repo, I did not list those common and easy problems.
 |746| Min Cost Climbing Stairs|Top is confusing, make the dp array length -> length(cost)+1|
 |830| Positions of Large Groups|One pass|
 |1232| Check If It Is a Straight Line|Use on point and compute the slope with the rest|
+|1128| Number of Equivalent Domino Pairs|Hashtable, note: list type is not hashable, convert to string|
 
 ## Math
 | # | title | solved |
