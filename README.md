@@ -139,6 +139,7 @@ In this repo, I did not list those common and easy problems.
 |1128| Number of Equivalent Domino Pairs|Hashtable, note: list type is not hashable, convert to string|
 |1010| Pairs of Songs With Total Durations Divisible by 60|2 Sum question by doing mod operation on the given array **good question**|
 |1018| Binary Prefix Divisible By 5|Bit manipulation|
+|674| Longest Continuous Increasing Subsequence|One pas, find start and end|
 
 ## Math
 | # | title | solved |
