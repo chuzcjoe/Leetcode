@@ -135,6 +135,7 @@ In this repo, I did not list those common and easy problems.
 |121| Best Time to Buy and Sell Stock|Typical sliding window technique to solve this problem|
 |746| Min Cost Climbing Stairs|Top is confusing, make the dp array length -> length(cost)+1|
 |830| Positions of Large Groups|One pass|
+|1232| Check If It Is a Straight Line|Use on point and compute the slope with the rest|
 
 ## Math
 | # | title | solved |
