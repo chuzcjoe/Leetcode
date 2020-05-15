@@ -1,4 +1,4 @@
-# My Progress: 300
+# My Progress: 327
 In this repo, I did not list those common and easy problems.
 
 ## Weekly Mock
@@ -140,6 +140,7 @@ In this repo, I did not list those common and easy problems.
 |1010| Pairs of Songs With Total Durations Divisible by 60|2 Sum question by doing mod operation on the given array **good question**|
 |1018| Binary Prefix Divisible By 5|Bit manipulation|
 |674| Longest Continuous Increasing Subsequence|One pas, find start and end|
+|724| Find Pivot Index|Typical prefix sum|
 
 ## Math
 | # | title | solved |
