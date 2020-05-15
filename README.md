@@ -144,6 +144,7 @@ In this repo, I did not list those common and easy problems.
 |849| Maximize Distance to Closest Person|find left 1 and right 1, between these two are all one's|
 |1346| Check If N and Its Double Exist|Similar to target sum(2 sum)|
 |941| Valid Mountain Array|Solution is easy but many conditions need to be satisfied|
+|581| Shortest Unsorted Continuous Subarray|Sort + two indexes|
 
 ## Math
 | # | title | solved |
