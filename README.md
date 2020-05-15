@@ -142,6 +142,7 @@ In this repo, I did not list those common and easy problems.
 |674| Longest Continuous Increasing Subsequence|One pas, find start and end|
 |724| Find Pivot Index|Typical prefix sum|
 |849| Maximize Distance to Closest Person|find left 1 and right 1, between these two are all one's|
+|1346| Check If N and Its Double Exist|Similar to target sum(2 sum)|
 
 ## Math
 | # | title | solved |
