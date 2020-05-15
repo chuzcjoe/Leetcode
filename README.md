@@ -134,6 +134,7 @@ In this repo, I did not list those common and easy problems.
 |1013| Partition Array Into Three Parts With Equal Sum|From left to right, find the first subset with target sum, then the second...|
 |121| Best Time to Buy and Sell Stock|Typical sliding window technique to solve this problem|
 |746| Min Cost Climbing Stairs|Top is confusing, make the dp array length -> length(cost)+1|
+|830| Positions of Large Groups|One pass|
 
 ## Math
 | # | title | solved |
