@@ -132,6 +132,7 @@ In this repo, I did not list those common and easy problems.
 |896| Monotonic Array|Compare adjacent elements|
 |122| Best Time to Buy and Sell Stock II|Always buy ant valley and sell at next peak, (good graph explaination)[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/208241/Explanation-for-the-dummy-like-me.]|
 |1013| Partition Array Into Three Parts With Equal Sum|From left to right, find the first subset with target sum, then the second...|
+|121| Best Time to Buy and Sell Stock|Typical sliding window technique to solve this problem|
 
 ## Math
 | # | title | solved |
