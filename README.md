@@ -137,6 +137,7 @@ In this repo, I did not list those common and easy problems.
 |830| Positions of Large Groups|One pass|
 |1232| Check If It Is a Straight Line|Use on point and compute the slope with the rest|
 |1128| Number of Equivalent Domino Pairs|Hashtable, note: list type is not hashable, convert to string|
+|1010| Pairs of Songs With Total Durations Divisible by 60|2 Sum question by doing mod operation on the given array **good question**|
 
 ## Math
 | # | title | solved |
