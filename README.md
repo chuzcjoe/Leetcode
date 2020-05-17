@@ -19,6 +19,14 @@ In this repo, I did not list those common and easy problems.
 ## Biweekly Contest 25
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1446| Consecutive Characters|easy|Sliding Window|
+|1447| Simplified Fractions|medium|String|
+|1448| Count Good Nodes in Binary Tree|medium|Top-down dfs|
+|1449| Form Largest Integer With Digits That Add up to Target|hard|DP|
+
+## Biweekly Contest 25
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1431| Kids With the Greatest Number of Candies|easy|Array|
 |1432| Max Difference You Can Get From Changing an Integer|medium|String|
 |1433| Check If a String Can Break Another String|medium|String|
