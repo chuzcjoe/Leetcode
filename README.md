@@ -191,6 +191,7 @@ In this repo, I did not list those common and easy problems.
 |416| Partition Equal Subset Sum|DP or set sum|
 |392| Is Subsequence|Iterate T and compare each value with s\[0\]|
 |1277| Count Square Submatrices with All Ones|Find the number of submatrices ending at index i,j|
+|338| Counting Bits|dp\[i]=dp\[i>>1]+i%2|
 
 ## DP
 | # | title | solved |
