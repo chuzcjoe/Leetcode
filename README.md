@@ -189,6 +189,7 @@ In this repo, I did not list those common and easy problems.
 | # | title | solved |
 | :--- | :----: | ----: |
 |416| Partition Equal Subset Sum|DP or set sum|
+|392| Is Subsequence|Iterate T and compare each value with s\[0\]|
 
 ## DP
 | # | title | solved |
