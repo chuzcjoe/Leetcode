@@ -194,6 +194,7 @@ In this repo, I did not list those common and easy problems.
 |338| Counting Bits|dp\[i]=dp\[i>>1]+i%2|
 |1130| Minimum Cost Tree From Leaf Values|Greedy, always find the smallest one and its neighbor|
 |931| Minimum Falling Path Sum|Same as seam carving algorithm|
+|1143| Longest Common Subsequence|2D DP|
 
 ## DP
 | # | title | solved |
