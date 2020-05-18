@@ -193,6 +193,7 @@ In this repo, I did not list those common and easy problems.
 |1277| Count Square Submatrices with All Ones|Find the number of submatrices ending at index i,j|
 |338| Counting Bits|dp\[i]=dp\[i>>1]+i%2|
 |1130| Minimum Cost Tree From Leaf Values|Greedy, always find the smallest one and its neighbor|
+|931| Minimum Falling Path Sum|Same as seam carving algorithm|
 
 ## DP
 | # | title | solved |
