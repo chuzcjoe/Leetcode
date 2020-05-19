@@ -1,4 +1,4 @@
-# My Progress: 327
+# My Progress: 349
 In this repo, I did not list those common and easy problems.
 
 ## Weekly Mock
