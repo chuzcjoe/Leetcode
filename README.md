@@ -198,6 +198,7 @@ In this repo, I did not list those common and easy problems.
 |1105| Filling Bookcase Shelves|Unusual DP problem, current optimal solution relies on several previous states|
 |1027| Longest Arithmetic Sequence|Use dictionary|
 |646| Maximum Length of Pair Chain|O(N^2) dp solution, O(nlogn)+O(n) Greedy|
+|343| Integer Break|find as many 3 as possible|
 
 ## DP
 | # | title | solved |
