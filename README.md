@@ -199,6 +199,8 @@ In this repo, I did not list those common and easy problems.
 |1027| Longest Arithmetic Sequence|Use dictionary|
 |646| Maximum Length of Pair Chain|O(N^2) dp solution, O(nlogn)+O(n) Greedy|
 |343| Integer Break|find as many 3 as possible|
+|1155| Number of Dice Rolls With Target Sum|dp_{ij} means i dice can get sum j|
+
 
 ## DP
 | # | title | solved |
