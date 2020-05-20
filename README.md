@@ -16,7 +16,7 @@ In this repo, I did not list those common and easy problems.
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
-## Biweekly Contest 25
+## Biweekly Contest 26
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1446| Consecutive Characters|easy|Sliding Window|
