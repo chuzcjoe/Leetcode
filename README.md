@@ -197,6 +197,7 @@ In this repo, I did not list those common and easy problems.
 |1143| Longest Common Subsequence|2D DP|
 |1105| Filling Bookcase Shelves|Unusual DP problem, current optimal solution relies on several previous states|
 |1027| Longest Arithmetic Sequence|Use dictionary|
+|646| Maximum Length of Pair Chain|O(N^2) dp solution, O(nlogn)+O(n) Greedy|
 
 ## DP
 | # | title | solved |
@@ -216,7 +217,7 @@ In this repo, I did not list those common and easy problems.
 |877|Stone Game|2D DP, DP\[i\]\[j\]: more stones one can get than another|
 |53| Maximum Subarray|dp\[i\] means max subarray ending at index i|
 |576| Out of Boundary Paths|**3D DP**|
-|646| Maximum Length of Pair Chain|O(N^2) solution|
+
 
 ## Binary Search
 | # | title | solved |
