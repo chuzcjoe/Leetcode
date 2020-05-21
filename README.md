@@ -56,6 +56,13 @@ In this repo, I did not list those common and easy problems.
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 189
+|#|title|Level|solved|
+|1450| Number of Students Doing Homework at a Given Time|easy|Array|
+|1451| Rearrange Words in a Sentence|medium|Array|
+|1452| People Whose List of Favorite Companies Is Not a Subset of Another List|medium|Set|
+|1453| Maximum Number of Darts Inside of a Circular Dartboard|hard|Math, O(N^3) find pairs of points and define a circle|
+
 ## Weekly Contest 188
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
