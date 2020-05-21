@@ -58,6 +58,7 @@ In this repo, I did not list those common and easy problems.
 
 ## Weekly Contest 189
 |#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1450| Number of Students Doing Homework at a Given Time|easy|Array|
 |1451| Rearrange Words in a Sentence|medium|Array|
 |1452| People Whose List of Favorite Companies Is Not a Subset of Another List|medium|Set|
