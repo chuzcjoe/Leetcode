@@ -209,6 +209,7 @@ In this repo, I did not list those common and easy problems.
 |343| Integer Break|find as many 3 as possible|
 |1155| Number of Dice Rolls With Target Sum|dp_{ij} means i dice can get sum j|
 |813| Largest Sum of Averages|dp_{ki} means by dividing first i numbers into k groups, the max sum we can get. O(kn^2)|
+|1024| Video Stitching|dp_{ij} -> min clips to form i-j|
 
 
 ## DP
