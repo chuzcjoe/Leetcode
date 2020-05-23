@@ -211,6 +211,7 @@ In this repo, I did not list those common and easy problems.
 |813| Largest Sum of Averages|dp_{ki} means by dividing first i numbers into k groups, the max sum we can get. O(kn^2)|
 |1024| Video Stitching|dp_{ij} -> min clips to form i-j|
 |650| 2 Keys Keyboard|My solution is to find all the factors given an N, then we can repeat the copy operation|
+|740| Delete and Earn|Similar to house robber but need to do some conversion|
 
 
 ## DP
