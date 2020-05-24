@@ -59,6 +59,14 @@ In this repo, I did not list those common and easy problems.
 ## Weekly Contest 189
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1455| Check If a Word Occurs As a Prefix of Any Word in a Sentence|easy|String|
+|1456| Maximum Number of Vowels in a Substring of Given Length|medium|Sliding window|
+|1457| Pseudo-Palindromic Paths in a Binary Tree|medium|Tree, check palindrome and run dfs|
+|1458| Max Dot Product of Two Subsequences|hard|Same as longest common subsequence|
+
+## Weekly Contest 189
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1450| Number of Students Doing Homework at a Given Time|easy|Array|
 |1451| Rearrange Words in a Sentence|medium|Array|
 |1452| People Whose List of Favorite Companies Is Not a Subset of Another List|medium|Set|
