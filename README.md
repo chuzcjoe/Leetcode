@@ -1,4 +1,4 @@
-# My Progress: 349
+# My Progress: 364
 In this repo, I did not list those common and easy problems.
 
 ## Weekly Mock
@@ -56,13 +56,13 @@ In this repo, I did not list those common and easy problems.
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
-## Weekly Contest 189
+## Weekly Contest 190
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1455| Check If a Word Occurs As a Prefix of Any Word in a Sentence|easy|String|
 |1456| Maximum Number of Vowels in a Substring of Given Length|medium|Sliding window|
 |1457| Pseudo-Palindromic Paths in a Binary Tree|medium|Tree, check palindrome and run dfs|
-|1458| Max Dot Product of Two Subsequences|hard|Same as longest common subsequence|
+|1458| Max Dot Product of Two Subsequences|hard|Same as longest common subsequence(1143)|
 
 ## Weekly Contest 189
 |#|title|Level|solved|
