@@ -220,6 +220,7 @@ In this repo, I did not list those common and easy problems.
 |1024| Video Stitching|dp_{ij} -> min clips to form i-j|
 |650| 2 Keys Keyboard|My solution is to find all the factors given an N, then we can repeat the copy operation|
 |740| Delete and Earn|Similar to house robber but need to do some conversion|
+|688| Knight Probability in Chessboard|3D DP|
 
 
 ## DP
