@@ -221,7 +221,7 @@ In this repo, I did not list those common and easy problems.
 |650| 2 Keys Keyboard|My solution is to find all the factors given an N, then we can repeat the copy operation|
 |740| Delete and Earn|Similar to house robber but need to do some conversion|
 |688| Knight Probability in Chessboard|3D DP|
-
+|1039| Minimum Score Triangulation of Polygon|2D DP, DP_{ij} means from i to j, the min triangle sum we can get|
 
 ## DP
 | # | title | solved |
