@@ -451,6 +451,7 @@ In this repo, I did not list those common and easy problems.
 |863| All Nodes Distance K in Binary Tree|Build graph and run dfs.|
 |450| Delete Node in a BST|Two solutions provided: 1. inorder traverse+buildTree 2. DFS updates left and right nodes|
 |662| Maximum Width of Binary Tree|Level order traverse + complete binary tree numbering|
+|106| Construct Binary Tree from Inorder and Postorder Traversal|Similar to 889, find left nodes and right nodes subsets|
 
 ## Linked List
 |#|title|solved|
