@@ -224,6 +224,7 @@ In this repo, I did not list those common and easy problems.
 |1039| Minimum Score Triangulation of Polygon|2D DP, DP_{ij} means from i to j, the min triangle sum we can get|
 |873| Length of Longest Fibonacci Subsequence|dp\[i]\[j]: max len of seq ending with A\[i],A\[j], dp\[k]\[i]+1 = dp\[i]\[j]|
 |486| Predict the Winner|Same as 877(Stone Game)|
+|1139| Largest 1-Bordered Square|Create auxillary horizontal and vertical arrays|
 
 ## DP
 | # | title | solved |
