@@ -450,6 +450,7 @@ In this repo, I did not list those common and easy problems.
 |652| Find Duplicate Subtrees|Hashtable + subtree serialize|
 |863| All Nodes Distance K in Binary Tree|Build graph and run dfs.|
 |450| Delete Node in a BST|Two solutions provided: 1. inorder traverse+buildTree 2. DFS updates left and right nodes|
+|662| Maximum Width of Binary Tree|Level order traverse + complete binary tree numbering|
 
 ## Linked List
 |#|title|solved|
