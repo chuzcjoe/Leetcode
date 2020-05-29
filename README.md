@@ -455,6 +455,7 @@ In this repo, I did not list those common and easy problems.
 |106| Construct Binary Tree from Inorder and Postorder Traversal|Similar to 889, find left nodes and right nodes subsets|
 |971| Flip Binary Tree To Match Preorder Traversal|DFS, check current node and children|
 |95| Unique Binary Search Trees II|Recursively build left and right subtrees|
+|1339| Maximum Product of Splitted Binary Tree|Get top-down sum for each node and run dfs to break the tree into two|
 
 ## Linked List
 |#|title|solved|
