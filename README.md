@@ -454,6 +454,7 @@ In this repo, I did not list those common and easy problems.
 |662| Maximum Width of Binary Tree|Level order traverse + complete binary tree numbering|
 |106| Construct Binary Tree from Inorder and Postorder Traversal|Similar to 889, find left nodes and right nodes subsets|
 |971| Flip Binary Tree To Match Preorder Traversal|DFS, check current node and children|
+|95| Unique Binary Search Trees II|Recursively build left and right subtrees|
 
 ## Linked List
 |#|title|solved|
