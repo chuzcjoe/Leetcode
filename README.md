@@ -456,6 +456,7 @@ In this repo, I did not list those common and easy problems.
 |971| Flip Binary Tree To Match Preorder Traversal|DFS, check current node and children|
 |95| Unique Binary Search Trees II|Recursively build left and right subtrees|
 |1339| Maximum Product of Splitted Binary Tree|Get top-down sum for each node and run dfs to break the tree into two|
+|1367| Linked List in Binary Tree|Run dfs to detect whether starting at a node can find the pattern, meanwhile dfs stores the path it goes through|
 
 ## Linked List
 |#|title|solved|
