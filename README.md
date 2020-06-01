@@ -59,6 +59,9 @@ In this repo, I did not list those common and easy problems.
 ## Weekly Contest 191
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1464| Maximum Product of Two Elements in an Array|easy|Array|
+|1465| Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts|medium|Array|
+|1466| Reorder Routes to Make All Paths Lead to the City Zero|medium|DFS, contraints show that there will be not loops in the graph|
 
 ## Weekly Contest 190
 |#|title|Level|solved|
