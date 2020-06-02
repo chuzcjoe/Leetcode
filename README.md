@@ -19,6 +19,14 @@ In this repo, I did not list those common and easy problems.
 ## Biweekly Contest 26
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1460| Make Two Arrays Equal by Reversing Sub-arrays|easy|Array|
+|1461| Check If a String Contains All Binary Codes of Size K|medium|String|
+|1462| Course Schedule IV|medium|DFS|
+|1463| Cherry Pickup II|hard|DP+DFS|
+
+## Biweekly Contest 26
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1446| Consecutive Characters|easy|Sliding Window|
 |1447| Simplified Fractions|medium|String|
 |1448| Count Good Nodes in Binary Tree|medium|Top-down dfs|
