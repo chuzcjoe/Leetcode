@@ -334,6 +334,7 @@ In this repo, I did not list those common and easy problems.
 |897| Increasing Order Search Tree|Inorder traverse to get all the nodes|
 |979| Distribute Coins in Binary Tree|Post-order traverse, dfs(node) returns how many coins should go from(to) node.[video explain](https://www.youtube.com/watch?v=zQqku1AXVF8)|
 |785| Is Graph Bipartite|DFS or BFS+dictionary, BFS is easier to understand|
+|399| Evaluate Division|Tricky, build graph and run dfs or bfs|
 
 ## BFS
 | # | title | note |
