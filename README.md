@@ -16,13 +16,13 @@ In this repo, I did not list those common and easy problems.
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
-## Biweekly Contest 26
+## Biweekly Contest 27
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1460| Make Two Arrays Equal by Reversing Sub-arrays|easy|Array|
 |1461| Check If a String Contains All Binary Codes of Size K|medium|String|
 |1462| Course Schedule IV|medium|DFS|
-|1463| Cherry Pickup II|hard|DP+DFS|
+|1463| Cherry Pickup II|hard|(bottom-top)DP+DFS|
 
 ## Biweekly Contest 26
 |#|title|Level|solved|
