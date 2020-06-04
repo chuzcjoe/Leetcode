@@ -1,53 +1,41 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
         
-        
         graph = collections.defaultdict(list)
-        res = collections.defaultdict()
-        vals = collections.defaultdict()
         
-        for i, eq in enumerate(equations):
-            graph[eq[0]].append(eq[1])
-            graph[eq[1]].append(eq[0])
-            res[eq[0]+'/'+eq[1]] = values[i]
+        def build_graph(eq, val):
             
-        print(res)
-        while equations:
-            cur_node = equations[0][1]
-                
-            for nxt in graph[cur_node]:
-                    if cur_node not in vals and nxt not in vals:
-                        if cur_node+'/'+nxt in res:
-                            vals[nxt] = 1.0
-                            vals[cur_mode] = 1.0 * res[cur_node+'/'+nxt]
-                            equations.remove([cur_node, nxt])
-                        else:
-                            vals[cur_node] = 1.0
-                            vals[nxt] = 1.0 * res[nxt+'/'+cur_node]
-                            equations.remove([nxt, cur_node])
-                            
-                    elif cur_node+'/'+nxt in res:
-                        if cur_node in vals:
-                            vals[nxt] = vals[cur_node] / res[cur_node+'/'+nxt]
-                        else:
-                            vals[cur_node] = vals[nxt] * res[cur_node+'/'+nxt]
-                        equations.remove([cur_node, nxt])
-                        
-                    elif nxt+'/'+cur_node in res:
-                        if cur_node in vals:
-                            vals[nxt] = vals[cur_node] * res[nxt+'/'+cur_node]
-                        else:
-                            vals[cur_node] = vals[nxt] / res[nxt+'/'+cur_node]
-                        equations.remove([nxt,cur_node])
-                        
-                
-                
+            for e, v in zip(eq, val):
+                f,t = e[0], e[1]
+                graph[f].append((t,v))
+                graph[t].append((f,1/v))
         
-        out = []
-        for x,y in queries:
-            if x in vals and y in vals:
-                out.append(vals[x]/vals[y])
-            else:
-                out.append(-1.0)
+        def dfs(s, e, product, seen):
+            print(s,e,product)
+            if s not in graph or e not in graph:
+                return -1.0
+            
+            if s == e:
+                return product
+            
+            seen.add(s)
+            tmp = 0
+            for nei,val in graph[s]:
+                if nei not in seen:
+                    tmp = dfs(nei, e, val*product, seen)
+                    if tmp != -1:
+                        return tmp
+            
+            return -1.0
+            
+        build_graph(equations, values)
         
-        return out
+        res = []
+        for q1,q2 in queries:
+            seen = set()
+            res.append(dfs(q1,q2,1,seen))
+        
+        return res
+        
+        
+        
