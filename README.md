@@ -427,6 +427,7 @@ In this repo, I did not list those common and easy problems.
 |31|Next Permutation|Yes|
 |60|Permutation Sequence|Yes|
 |159|Longest substring with at most two distinct characters|159|
+|8| String to Integer (atoi)|If-else practice|
 
 ## Tree
 |#|title|solved|
