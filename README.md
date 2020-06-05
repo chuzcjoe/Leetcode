@@ -506,6 +506,7 @@ In this repo, I did not list those common and easy problems.
 |:---|:----:|----:|
 |621|Task Scheduler|Always process the most frequent jobs, good explaination [here](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation)|
 |373| Find K Pairs with Smallest Sums|The next smallest sum must be at either right or down directions.|
+|1046| Last Stone Weight|Maintain a max heap|
 
 ## Random
 |#|title|solved|
