@@ -64,6 +64,14 @@ In this repo, I did not list those common and easy problems.
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 192
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1470| Shuffle the Array|easy|Array|
+|1471| The k Strongest Values in an Array|medium|Array|
+|1472| Design Browser History|medium|Array|
+|1473| Paint House III|hard|Top-down dfs+DP|
+
 ## Weekly Contest 191
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
