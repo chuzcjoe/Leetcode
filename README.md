@@ -516,6 +516,7 @@ In this repo, I did not list those common and easy problems.
 |373| Find K Pairs with Smallest Sums|The next smallest sum must be at either right or down directions.|
 |1046| Last Stone Weight|Maintain a max heap|
 |703| Kth Largest Element in a Stream|Maintain a min heap with fixed size k|
+|973| K Closest Points to Origin|Maintain a max heap with size K, everytime, we pop the current largest value|
 
 ## Random
 |#|title|solved|
