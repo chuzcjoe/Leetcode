@@ -519,6 +519,7 @@ In this repo, I did not list those common and easy problems.
 |973| K Closest Points to Origin|Maintain a max heap with size K, everytime, we pop the current largest value|
 |451| Sort Characters By Frequency|Two solutions|
 |692| Top K Frequent Words|Maintain min heap with size k|
+|767| Reorganize String|Max heap to store most frequent letters|
 
 ## Random
 |#|title|solved|
