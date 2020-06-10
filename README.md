@@ -518,6 +518,7 @@ In this repo, I did not list those common and easy problems.
 |703| Kth Largest Element in a Stream|Maintain a min heap with fixed size k|
 |973| K Closest Points to Origin|Maintain a max heap with size K, everytime, we pop the current largest value|
 |451| Sort Characters By Frequency|Two solutions|
+|692| Top K Frequent Words|Maintain min heap with size k|
 
 ## Random
 |#|title|solved|
