@@ -520,6 +520,7 @@ In this repo, I did not list those common and easy problems.
 |451| Sort Characters By Frequency|Two solutions|
 |692| Top K Frequent Words|Maintain min heap with size k|
 |767| Reorganize String|Max heap to store most frequent letters|
+|313| Super Ugly Number|Min heap, find values in the given primes closure|
 
 ## Random
 |#|title|solved|
