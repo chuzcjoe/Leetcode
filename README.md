@@ -249,6 +249,7 @@ In this repo, I did not list those common and easy problems.
 |873| Length of Longest Fibonacci Subsequence|dp\[i]\[j]: max len of seq ending with A\[i],A\[j], dp\[k]\[i]+1 = dp\[i]\[j]|
 |486| Predict the Winner|Same as 877(Stone Game)|
 |1139| Largest 1-Bordered Square|Create auxillary horizontal and vertical arrays|
+|659| Split Array into Consecutive Subsequences|Maintain two hashmap for keeping track of the number frequence and next nums|
 
 ## DP
 | # | title | solved |
