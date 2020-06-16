@@ -64,6 +64,13 @@ In this repo, I did not list those common and easy problems.
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 193
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1480| Running Sum of 1d Array|easy|Array|
+|1481| Least Number of Unique Integers after K Removals|medium|Heap|
+|1482| Minimum Number of Days to Make m Bouquets|medium|Binary Search|
+
 ## Weekly Contest 192
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
