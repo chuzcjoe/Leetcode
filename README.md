@@ -70,6 +70,7 @@ In this repo, I did not list those common and easy problems.
 |1480| Running Sum of 1d Array|easy|Array|
 |1481| Least Number of Unique Integers after K Removals|medium|Heap|
 |1482| Minimum Number of Days to Make m Bouquets|medium|Binary Search|
+|1483| Kth Ancestor of a Tree Node|Hard||DFS LTE, use DP|
 
 ## Weekly Contest 192
 |#|title|Level|solved|
