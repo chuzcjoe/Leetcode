@@ -16,6 +16,14 @@ In this repo, I did not list those common and easy problems.
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 28
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1475| Final Prices With a Special Discount in a Shop|easy|Array|
+|1476| Subrectangle Queries|meidum|Array|
+|1477| Find Two Non-overlapping Sub-arrays Each With Target Sum|medium|Prefix sum or Sliding window|
+|1478| Allocate Mailboxes|hard|Build cost array(math problem), build dp array|
+
 ## Biweekly Contest 27
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
