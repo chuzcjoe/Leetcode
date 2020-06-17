@@ -1,6 +1,7 @@
 class Solution:
     def minSumOfLengths(self, arr: List[int], target: int) -> int:
         
+        """
         #{prefix sum: idx}
         prefix = {0:-1}
         s = 0
@@ -11,6 +12,25 @@ class Solution:
             prefix[s] = i
             if s - target in prefix:
                 res.append([prefix[s-target]+1,i])
+        
+        res = sorted(res, key=lambda x: x[1]-x[0]+1)
+        """
+        
+        res = []
+        n = len(arr)
+        left = 0
+        s = 0
+        
+        for right in range(n):
+            s += arr[right]
+            
+            while s > target and left < right:
+                s -= arr[left]
+                left += 1
+            
+            if s == target:
+                res.append([left,right])
+                continue
         
         res = sorted(res, key=lambda x: x[1]-x[0]+1)
         
