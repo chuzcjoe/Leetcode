@@ -547,6 +547,7 @@ In this repo, I did not list those common and easy problems.<br>
 |767| Reorganize String|Max heap to store most frequent letters|
 |313| Super Ugly Number|Min heap, find values in the given primes closure|
 |1054| Distant Barcodes|Same as 767, use prev variables to keep track of the previous number|
+|264| Ugly Number II|Same as 313|
 
 ## Random
 |#|title|solved|
