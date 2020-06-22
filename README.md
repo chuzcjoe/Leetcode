@@ -76,6 +76,13 @@ In this repo, I did not list those common and easy problems.<br>
 ## Weekly Contest 193
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1486| XOR Operation in an Array|easy|Array|
+|1487| Making File Names Unique|meidum|Hashmap|
+|1488| Avoid Flood in The City|medium|Heap and Hashmap|
+
+## Weekly Contest 193
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1480| Running Sum of 1d Array|easy|Array|
 |1481| Least Number of Unique Integers after K Removals|medium|Heap|
 |1482| Minimum Number of Days to Make m Bouquets|medium|Binary Search|
