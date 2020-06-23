@@ -431,6 +431,7 @@ In this repo, I did not list those common and easy problems.<br>
 |862| Shortest Subarray with Sum at Least K|Keep increasing prefix sum|
 |1425| Constrained Subset Sum|Keep a decreasing queue|
 |743| Network Delay Time|BFS + deque|
+|239| Sliding Window Maximum|Typical **monotonic queue** problem|
 
 ## Backtracking
 |#|title|solved|
