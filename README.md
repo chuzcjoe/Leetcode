@@ -17,6 +17,14 @@ In this repo, I did not list those common and easy problems.<br>
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 29
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1491| Average Salary Excluding the Minimum and Maximum Salary|easy|Array|
+|1492| The kth Factor of n|medium|Array|
+|1493| Longest Subarray of 1's After Deleting One Element|meidum|Sliding Window(zero count)|
+|1494| Parallel Courses II|hard|Graph(inverse thinking, start from the end)|
+
 ## Biweekly Contest 28
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
