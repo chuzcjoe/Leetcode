@@ -81,7 +81,7 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
-## Weekly Contest 193
+## Weekly Contest 194
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1486| XOR Operation in an Array|easy|Array|
