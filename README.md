@@ -84,6 +84,13 @@ In this repo, I did not list those common and easy problems.<br>
 ## Weekly Contest 194
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1496| Path Crossing|easy|Hashmap|
+|1497| Check If Array Pairs Are Divisible by k|medium|Array(similar to target sum)|
+|1498| Number of Subsequences That Satisfy the Given Sum Condition|medium|Array(sort then two sum)|
+
+## Weekly Contest 194
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1486| XOR Operation in an Array|easy|Array|
 |1487| Making File Names Unique|meidum|Hashmap|
 |1488| Avoid Flood in The City|medium|Heap and Hashmap|
