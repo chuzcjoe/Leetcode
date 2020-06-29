@@ -81,12 +81,13 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
-## Weekly Contest 194
+## Weekly Contest 195
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1496| Path Crossing|easy|Hashmap|
 |1497| Check If Array Pairs Are Divisible by k|medium|Array(similar to target sum)|
 |1498| Number of Subsequences That Satisfy the Given Sum Condition|medium|Array(sort then two sum)|
+|1499| Max Value of Equation|hard|Convert to yi-xi+yj+xj, given j find max of (yi-xi), MAX heap|
 
 ## Weekly Contest 194
 |#|title|Level|solved|
