@@ -329,6 +329,7 @@ In this repo, I did not list those common and easy problems.<br>
 |374|Guess Number Higher or Lower|Yes|
 |34|Find First and Last Position of Element in Sorted Array|Yes(find most left and most right index)|
 |354|Russian Doll Envelopes|Yes(reduce to one dimension, then apply LLS)|
+|1283| Find the Smallest Divisor Given a Threshold|Normal bianry search|
 
 ## Matrix
 | # | title | solved |
