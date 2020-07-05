@@ -250,6 +250,12 @@ In this repo, I did not list those common and easy problems.<br>
 |15| Three Sum|Yes|
 |231|Power of Two|Yes|
 
+## Hashmap
+| # | title | solved |
+| :--- | :----: | ----: |
+|454| 4Sum II|Get sum count in A,B|
+
+
 ## Graph
 | # | title | solved |
 | :--- | :----: | ----: |
