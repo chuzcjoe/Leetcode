@@ -81,6 +81,13 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 196
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1502| Can Make Arithmetic Progression From Sequence|easy|Array|
+|1503| Last Moment Before All Ants Fall Out of a Plank|medium|MAXMIN|
+|1504| Count Submatrices With All Ones|medium|DP|
+
 ## Weekly Contest 195
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
