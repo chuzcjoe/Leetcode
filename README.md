@@ -17,6 +17,14 @@ In this repo, I did not list those common and easy problems.<br>
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 30
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1507| Reformat Date|easy|String|
+|1508| Range Sum of Sorted Subarray Sums|medium|Heap|
+|1509| Minimum Difference Between Largest and Smallest Value in Three Moves|medium|Array|
+|1510| Stone Game IV|medium|DP|
+
 ## Biweekly Contest 29
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
