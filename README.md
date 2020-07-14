@@ -89,12 +89,13 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
-## Weekly Contest 196
+## Weekly Contest 197
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
 |1512| Number of Good Pairs|easy|Array|
 |1513| Number of Substrings With Only 1s|medium|Sliding Window|
 |1514| Path with Maximum Probability|medium|BFS|
+|1515| Best Position for a Service Centre|hard|Binary Search|
 
 ## Weekly Contest 196
 |#|title|Level|solved|
