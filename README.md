@@ -92,6 +92,13 @@ In this repo, I did not list those common and easy problems.<br>
 ## Weekly Contest 196
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1512| Number of Good Pairs|easy|Array|
+|1513| Number of Substrings With Only 1s|medium|Sliding Window|
+|1514| Path with Maximum Probability|medium|BFS|
+
+## Weekly Contest 196
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1502| Can Make Arithmetic Progression From Sequence|easy|Array|
 |1503| Last Moment Before All Ants Fall Out of a Plank|medium|MAXMIN|
 |1504| Count Submatrices With All Ones|medium|DP|
