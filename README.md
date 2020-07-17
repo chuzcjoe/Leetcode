@@ -356,6 +356,7 @@ In this repo, I did not list those common and easy problems.<br>
 |875| Koko Eating Bananas|Same as 1283|
 |1011| Capacity To Ship Packages Within D Days|O(nlogn), left bound is max(A) and right bound is sum(A)|
 |1292| Maximum Side Length of a Square with Sum Less than or Equal to Threshold|Array presum + binary search for side length|
+|1300| Sum of Mutated Array Closest to Target|Careful about the left and right index, left=mid, right=mid|
 
 ## Matrix
 | # | title | solved |
