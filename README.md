@@ -601,6 +601,7 @@ In this repo, I did not list those common and easy problems.<br>
 |264| Ugly Number II|Same as 313|
 |787| Cheapest Flights Within K Stops|Both DFS and BFS LTE|
 |295| Find Median from Data Stream|Impressive solution, use max and min heap to maintain half numbers, top numbers at eahc heap will be numbers in the middle|
+|658| Find K Closest Elements|Min heap|
 
 ## Random
 |#|title|solved|
