@@ -355,6 +355,7 @@ In this repo, I did not list those common and easy problems.<br>
 |1283| Find the Smallest Divisor Given a Threshold|Normal bianry search|
 |875| Koko Eating Bananas|Same as 1283|
 |1011| Capacity To Ship Packages Within D Days|O(nlogn), left bound is max(A) and right bound is sum(A)|
+|1292| Maximum Side Length of a Square with Sum Less than or Equal to Threshold|Array presum + binary search for side length|
 
 ## Matrix
 | # | title | solved |
