@@ -359,6 +359,8 @@ In this repo, I did not list those common and easy problems.<br>
 |1300| Sum of Mutated Array Closest to Target|Careful about the left and right index, left=mid, right=mid|
 |668| Kth Smallest Number in Multiplication Table|Find number counts in each row|
 |1201| Ugly Number III|Union and intersection, basic math logic|
+|410| Split Array Largest Sum|Find satisfying splits|
+
 
 ## Matrix
 | # | title | solved |
