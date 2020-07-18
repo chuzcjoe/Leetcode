@@ -459,6 +459,7 @@ In this repo, I did not list those common and easy problems.<br>
 |752|Open the Lock|Yes(BFS, to improve runtime, use deque)|
 |542|01 Matrix|Yes(close to 752)|
 |1091|Shortest Path in Binary Matrix|Yes(template for solving shortest path problem)|
+|1306| Jump Game III|Queue|
 
 ## Stack 
 | # | title | solved |
