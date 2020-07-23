@@ -89,6 +89,15 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 198
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1518| Water Bottles|easy|Math|
+|1519| Number of Nodes in the Sub-Tree With the Same Label|medium|DFS|
+|1520| Maximum Number of Non-Overlapping Substrings|medium|Minmax|
+|1521| Find a Value of a Mysterious Function Closest to Target|hard|Set|
+
+
 ## Weekly Contest 197
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
