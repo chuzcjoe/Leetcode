@@ -287,6 +287,10 @@ In this repo, I did not list those common and easy problems.<br>
 | :--- | :----: | ----: |
 |454| 4Sum II|Get sum count in A,B|
 
+## Union Find
+| # | title | solved |
+| :--- | :----: | ----: |
+|959| Regions Cut By Slashes|This union find solution does not apply path compression when doing the union operation|
 
 ## Graph
 | # | title | solved |
