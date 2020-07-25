@@ -293,6 +293,7 @@ In this repo, I did not list those common and easy problems.<br>
 |959| Regions Cut By Slashes|This union find solution does not apply path compression when doing the union operation|
 |684| Redundant Connection|Each time before union, check if two vertices are in the same cluster using find|
 |547| Friend Circles|A simple solution using Union Find|
+|1202| Smallest String With Swaps|Convert to graph, then union, then sort|
 
 ## Graph
 | # | title | solved |
