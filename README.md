@@ -295,6 +295,7 @@ In this repo, I did not list those common and easy problems.<br>
 |547| Friend Circles|A simple solution using Union Find|
 |1202| Smallest String With Swaps|Convert to graph, then union, then sort|
 |990| Satisfiability of Equality Equations|First union all the '==' equations, then find all '!=' equations|
+|765| Couples Holding Hands|Consider each couple as a node, find all the connected clusters, apply permutation theorem(N//2- (\# of clusters))|
 
 ## Graph
 | # | title | solved |
