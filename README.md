@@ -17,6 +17,14 @@ In this repo, I did not list those common and easy problems.<br>
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 31
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1523| Count Odd Numbers in an Interval Range|easy|Math|
+|1524| Number of Sub-arrays With Odd Sum|medium|DP|
+|1525| Number of Good Ways to Split a String|Hashmap|
+|1526| Minimum Number of Increments on Subarrays to Form a Target Array|hard|Difference array|
+
 ## Biweekly Contest 30
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
