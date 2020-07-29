@@ -97,6 +97,13 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 199
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1528| Shuffle String|easy|String|
+|1529| Bulb Switcher IV|medium|Array|
+|1530| Number of Good Leaf Nodes Pairs|medium|DFS|
+
 ## Weekly Contest 198
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
