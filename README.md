@@ -97,6 +97,13 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 200
+|#|title|Level|solved|
+|1534| Count Good Triplets|easy|BF|
+|1535| Find the Winner of an Array Game|medium|Array|
+|1536| Minimum Swaps to Arrange a Binary Grid|medium|Greedy|
+|1537| Get the Maximum Score|hard|Two pointers|
+
 ## Weekly Contest 199
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
