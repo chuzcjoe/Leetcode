@@ -310,6 +310,12 @@ In this repo, I did not list those common and easy problems.<br>
 | :--- | :----: | ----: |
 |454| 4Sum II|Get sum count in A,B|
 
+## Two Pointers
+| # | title | solved |
+| :--- | :----: | ----: |
+|61| Rotate List|Two solutions:1. iterate k times or use two pointers|
+
+
 ## Union Find
 | # | title | solved |
 | :--- | :----: | ----: |
