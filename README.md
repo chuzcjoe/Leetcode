@@ -17,6 +17,14 @@ In this repo, I did not list those common and easy problems.<br>
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 32
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1539| Kth Missing Positive Number|easy|Array|
+|1540| Can Convert String in K Moves|medium|Math|
+|1541| Minimum Insertions to Balance a Parentheses String|medium|Stack|
+|1542| Find Longest Awesome Substring|Hard|Bit Mask|
+
 ## Biweekly Contest 31
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
