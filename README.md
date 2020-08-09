@@ -325,6 +325,7 @@ In this repo, I did not list those common and easy problems.<br>
 |457| Circular Array Loop|Mark visited elements using numbers|
 |632| Smallest Range Covering Elements from K Lists|1. pointers+heap 2. sliding window|
 |828| Count Unique Characters of All Substrings of a Given String|Find the last two occurence indexes for each letter|
+|76| Minimum Window Substring|Sliding window, tricks: use two additional variables: found and target|
 
 ## Union Find
 | # | title | solved |
