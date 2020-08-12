@@ -488,6 +488,7 @@ In this repo, I did not list those common and easy problems.<br>
 | :--- | :----: | ----: |
 |116| Populating Next Right Pointers in Each Node|Level order traverse|
 |117| Populating Next Right Pointers in Each Node II|Same as 116|
+|864| Shortest Path to Get All Keys|Use 3-elements tuple to keep track of seen blocks|
 
 ## DFS and BFS  
 | # | title | solved |
