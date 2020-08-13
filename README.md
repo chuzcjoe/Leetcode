@@ -108,6 +108,14 @@ In this repo, I did not list those common and easy problems.<br>
 ## Weekly Contest 200
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1544| Make The String Great|easy|String|
+|1545| Find Kth Bit in Nth Binary String|medium|String|
+|1546| Maximum Number of Non-Overlapping Subarrays With Sum Equals Target|medium|Predix Sum&Hashmap|
+|1547| Minimum Cost to Cut a Stick|hard|DP(same as 312 Burst Bolloons. Interval DP)|
+
+## Weekly Contest 200
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1534| Count Good Triplets|easy|BF|
 |1535| Find the Winner of an Array Game|medium|Array|
 |1536| Minimum Swaps to Arrange a Binary Grid|medium|Greedy|
