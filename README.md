@@ -498,6 +498,7 @@ In this repo, I did not list those common and easy problems.<br>
 |117| Populating Next Right Pointers in Each Node II|Same as 116|
 |864| Shortest Path to Get All Keys|Use 3-elements tuple to keep track of seen blocks|
 |1284| Minimum Number of Flips to Convert Binary Matrix to Zero Matrix|Convert matrix to bin representation and BFS finds all the possible states|
+|847| Shortest Path Visiting All Nodes|Use bit to keep track of visited nodes in seen(set)|
 
 ## DFS and BFS  
 | # | title | solved |
