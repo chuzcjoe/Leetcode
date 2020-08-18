@@ -105,6 +105,14 @@ In this repo, I did not list those common and easy problems.<br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 202
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1550| Three Consecutive Odds|easy|Array|
+|1551| Minimum Operations to Make Array Equal|medium|Math|
+|1552| Magnetic Force Between Two Balls|medium|Binary Search|
+|1553| Minimum Number of Days to Eat N Oranges|hard|BFS or DP|
+
 ## Weekly Contest 201
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
