@@ -436,6 +436,7 @@ In this repo, I did not list those common and easy problems.<br>
 |1201| Ugly Number III|Union and intersection, basic math logic|
 |410| Split Array Largest Sum|Find satisfying splits|
 |315| Count of Smaller Numbers After Self|Bisect module used|
+|1235| Maximum Profit in Job Scheduling|Bisect to find the inserted time slot|
 
 
 ## Matrix
