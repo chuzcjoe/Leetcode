@@ -470,6 +470,10 @@ In this repo, I did not list those common and easy problems.<br>
 |5|Longest Palindromic Substring|start from center, left-=1 rigth += 1|
 |647| Palindromic Substrings|Close to problem 5, center expansion|
 
+## Sliding Window
+| # | title | solved |
+| :--- | :----: | ----: |
+|927| Three Equal Parts|Starting from end, find a potential matching bianry reprsentation|
 
 ## Sort
 | # | title | solved |
