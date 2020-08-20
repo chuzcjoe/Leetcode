@@ -439,6 +439,7 @@ In this repo, I did not list those common and easy problems.<br>
 |1235| Maximum Profit in Job Scheduling|Bisect to find the inserted time slot|
 |1157| Online Majority Element In Subarray|Store indexes in increasing order and use bisect find left and right inserted indexes, then apply early stop|
 |1095| Find in Mountain Array|Binary search finds mountain index and binary search finds target|
+|719| Find K-th Smallest Pair Distance|Binary search distance|
 
 
 ## Matrix
