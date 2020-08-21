@@ -440,6 +440,7 @@ In this repo, I did not list those common and easy problems.<br>
 |1157| Online Majority Element In Subarray|Store indexes in increasing order and use bisect find left and right inserted indexes, then apply early stop|
 |1095| Find in Mountain Array|Binary search finds mountain index and binary search finds target|
 |719| Find K-th Smallest Pair Distance|Binary search distance|
+|878| Nth Magical Number|Least common multiplier|
 
 
 ## Matrix
