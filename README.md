@@ -1,4 +1,4 @@
-# My Progress: 479
+# My Progress: __513__
 In this repo, I did not list those common and easy problems.<br>
 (PS. 这个readme是用来骗提交的)
 
@@ -112,6 +112,14 @@ In this repo, I did not list those common and easy problems.<br>
 |1386|Cinema Seat Allocation|medium|Array|
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
+
+## Weekly Contest 203
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1560| Most Visited Sector in a Circular Track|easy|Array|
+|1561| Maximum Number of Coins You Can Get|medium|Greedy|
+|1562| Find Latest Group of Size M|meidum|Union find|
+|1563| Stone Game V|hard|DP|
 
 ## Weekly Contest 202
 |#|title|Level|solved|
