@@ -17,6 +17,14 @@ In this repo, I did not list those common and easy problems.<br>
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 33
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1556| Thousand Separator|easy|String|
+|1557| Minimum Number of Vertices to Reach All Nodes|medium|Graph|
+|1558| Minimum Numbers of Function Calls to Make Target Array|medium|Math|
+|1559| Detect Cycles in 2D Grid|hard|BFS|
+
 ## Biweekly Contest 32
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
