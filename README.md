@@ -1,5 +1,5 @@
 # My Progress: __513__
-In this repo, I did not list those common and easy problems.<br>
+In this repo, I do not list those common and easy problems.<br>
 (PS. 这个readme是用来骗提交的)
 
 ## Weekly Mock
