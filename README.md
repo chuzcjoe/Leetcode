@@ -369,6 +369,7 @@ In this repo, I did not list those common and easy problems.<br>
 |990| Satisfiability of Equality Equations|First union all the '==' equations, then find all '!=' equations|
 |765| Couples Holding Hands|Consider each couple as a node, find all the connected clusters, apply permutation theorem(N//2- (\# of clusters))|
 |128| Longest Consecutive Sequence|Using set to keep track of the visited numbers, use union to connect all consecutive elements|
+|839| Similar String Groups|Union find is right but Python version is LTE|
 
 ## Graph
 | # | title | solved |
