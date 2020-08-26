@@ -488,11 +488,12 @@ In this repo, I do not list those common and easy problems.<br>
 |1208|Get Equal Substrings Within Budget|left+right index, record cur maxCount value|
 |5|Longest Palindromic Substring|start from center, left-=1 rigth += 1|
 |647| Palindromic Substrings|Close to problem 5, center expansion|
+|927| Three Equal Parts|Starting from end, find a potential matching bianry reprsentation|
 
-## Sliding Window
+## Segment Tree
 | # | title | solved |
 | :--- | :----: | ----: |
-|927| Three Equal Parts|Starting from end, find a potential matching bianry reprsentation|
+|307| Range Sum Query - Mutable|Build Tree-> Update Tree-> Query Sum(all recursively)|
 
 ## Sort
 | # | title | solved |
