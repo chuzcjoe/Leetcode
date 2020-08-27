@@ -381,6 +381,11 @@ In this repo, I do not list those common and easy problems.<br>
 |210|Course Schedule II|BFS + queue|
 |1377|Frog Position After T Seconds|BFS + queue, remove neighbors that have been visited|
 
+## Design
+| # | title | solved |
+| :--- | :----: | ----: |
+|146| LRU Cache|Use ordered dict|
+
 ## Prefix Sum
 | # | title | solved |
 | :--- | :----: | ----: |
