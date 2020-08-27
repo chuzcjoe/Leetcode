@@ -385,6 +385,7 @@ In this repo, I do not list those common and easy problems.<br>
 | # | title | solved |
 | :--- | :----: | ----: |
 |146| LRU Cache|Use ordered dict|
+|284| Peeking Iterator|Use a variable to store peek value|
 
 ## Prefix Sum
 | # | title | solved |
