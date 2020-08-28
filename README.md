@@ -1,5 +1,6 @@
 # My Progress: __513__
 In this repo, I do not list those common and easy problems.<br>
+One problem may be classified as multiple types. <br>
 (PS. 这个readme是用来骗提交的)
 
 ## Weekly Mock
@@ -388,6 +389,7 @@ In this repo, I do not list those common and easy problems.<br>
 |284| Peeking Iterator|Use a variable to store peek value|
 |341| Flatten Nested List Iterator|Use stack to break down nested list|
 |352| Data Stream as Disjoint Intervals|1. Binary search 2. Heap|
+|303| Range Sum Query - Immutable|Prefix sum|
 
 ## Prefix Sum
 | # | title | solved |
