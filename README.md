@@ -387,6 +387,7 @@ In this repo, I do not list those common and easy problems.<br>
 |146| LRU Cache|Use ordered dict|
 |284| Peeking Iterator|Use a variable to store peek value|
 |341| Flatten Nested List Iterator|Use stack to break down nested list|
+|352| Data Stream as Disjoint Intervals|1. Binary search 2. Heap|
 
 ## Prefix Sum
 | # | title | solved |
