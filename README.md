@@ -114,6 +114,14 @@ One problem may be classified as multiple types. <br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 204
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1566| Detect Pattern of Length M Repeated K or More Times|easy|Array|
+|1567| Maximum Length of Subarray With Positive Product|medium|Array(use two auxiliary arrays: pos and num)|
+|1568| Minimum Number of Days to Disconnect Island|medium|DFS(Tricky: at most 2 days)|
+|1569| Number of Ways to Reorder Array to Get Same BST|hard|Recursive(use combination)|
+
 ## Weekly Contest 203
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
