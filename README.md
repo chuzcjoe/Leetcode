@@ -359,6 +359,11 @@ One problem may be classified as multiple types. <br>
 | :--- | :----: | ----: |
 |454| 4Sum II|Get sum count in A,B|
 
+## Hashmap
+| # | title | solved |
+| :--- | :----: | ----: |
+|846| Hand of Straights|Two maps: Order dict and need map(for storing the next needed number)|
+
 ## Two Pointers
 | # | title | solved |
 | :--- | :----: | ----: |
