@@ -18,6 +18,14 @@ One problem may be classified as multiple types. <br>
 |673|Number of Longest Increasing Subsequence|DP|two DPs|Week2|
 |322|Coin Change|DP|special cases|Week2|
 
+## Biweekly Contest 34
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1572| Matrix Diagonal Sum|easy|Array|
+|1573| Number of Ways to Split a String|medium|Greedy|
+|1574| Shortest Subarray to be Removed to Make Array Sorted|medium|Monotic Array|
+|1575| Count All Possible Routes|hard|DP|
+
 ## Biweekly Contest 33
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
