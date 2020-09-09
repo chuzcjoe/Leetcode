@@ -122,6 +122,14 @@ One problem may be classified as multiple types. <br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 205
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1576| Replace All 's to Avoid Consecutive Repeating Characters|easy|Set|
+|1577| Number of Ways Where Square of Number Is Equal to Product of Two Numbers|medium|Dict|
+|1578| Minimum Deletion Cost to Avoid Repeating Letters|medium|Array|
+|1579| Remove Max Number of Edges to Keep Graph Fully Traversable|hard|Union find|
+
 ## Weekly Contest 204
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
