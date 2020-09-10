@@ -381,7 +381,7 @@ One problem may be classified as multiple types. <br>
 |846| Hand of Straights|Two maps: Order dict and need map(for storing the next needed number)|
 
 ## Two Pointers
-| # | title | solved |
+| # | title | note |
 | :--- | :----: | ----: |
 |61| Rotate List|Two solutions:1. iterate k times or use two pointers|
 |457| Circular Array Loop|Mark visited elements using numbers|
