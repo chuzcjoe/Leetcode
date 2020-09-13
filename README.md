@@ -122,6 +122,13 @@ One problem may be classified as multiple types. <br>
 |1387|Sort Integers by The Power Value|medium|Sort|
 |1388|Pizza With 3n Slices|hard|didn't solve it!!!|
 
+## Weekly Contest 206
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
+|1582| Special Positions in a Binary Matrix|easy|Array|
+|1583| Count Unhappy Friends|medium|Dict|
+|1584| Min Cost to Connect All Points|medium|Greedy|
+
 ## Weekly Contest 205
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
