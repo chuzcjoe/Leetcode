@@ -671,6 +671,7 @@ One problem may be classified as multiple types. <br>
 |60|Permutation Sequence|Yes|
 |159|Longest substring with at most two distinct characters|159|
 |8| String to Integer (atoi)|If-else practice|
+|869| Reordered Power of 2|Find all the power of 2 numbers first|
 
 ## Tree
 |#|title|solved|
