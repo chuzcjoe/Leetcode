@@ -432,6 +432,7 @@ One problem may be classified as multiple types. <br>
 | # | title | solved |
 | :--- | :----: | ----: |
 |304| Range Sum Query 2D - Immutable|dp\[i]\[j] stores the element sum from arr\[i]\[j] to arr\[r-1]\[c-1]|
+|1124| Longest Well-Performing Interval|Convert to -1/+1 representation and search for subarry with positive sum|
 
 ## DP
 | # | title | solved |
