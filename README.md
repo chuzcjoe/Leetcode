@@ -128,6 +128,7 @@ One problem may be classified as multiple types. <br>
 |1582| Special Positions in a Binary Matrix|easy|Array|
 |1583| Count Unhappy Friends|medium|Dict|
 |1584| Min Cost to Connect All Points|medium|Greedy|
+|1585| Check If String Is Transformable With Substring Sort Operations|hard|Deque|
 
 ## Weekly Contest 205
 |#|title|Level|solved|
