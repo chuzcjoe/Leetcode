@@ -398,6 +398,7 @@ One problem may be classified as multiple types. <br>
 | :--- | :----: | ----: |
 |98| Validate Binary Search Tree|1. Recursive 2. inoder traverse|
 |701| Insert into a Binary Search Tree|1. inorder then build tree 2. recursive(we can always put the new val in leaf node)|
+|99| Recover Binary Search Tree|Inorder to find the swapped elements|
 
 ## Union Find
 | # | title | solved |
