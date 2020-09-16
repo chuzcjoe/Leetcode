@@ -421,6 +421,7 @@ One problem may be classified as multiple types. <br>
 |207|Course Schedule|DFS + extra array for checking if cur node will form a loop|
 |210|Course Schedule II|BFS + queue|
 |1377|Frog Position After T Seconds|BFS + queue, remove neighbors that have been visited|
+|133| Clone Graph|Queue + hashmap|
 
 ## Design
 | # | title | solved |
