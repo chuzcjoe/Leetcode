@@ -382,10 +382,6 @@ One problem may be classified as multiple types. <br>
 | # | title | solved |
 | :--- | :----: | ----: |
 |454| 4Sum II|Get sum count in A,B|
-
-## Hashmap
-| # | title | solved |
-| :--- | :----: | ----: |
 |846| Hand of Straights|Two maps: Order dict and need map(for storing the next needed number)|
 
 ## Two Pointers
@@ -396,6 +392,11 @@ One problem may be classified as multiple types. <br>
 |632| Smallest Range Covering Elements from K Lists|1. pointers+heap 2. sliding window|
 |828| Count Unique Characters of All Substrings of a Given String|Find the last two occurence indexes for each letter|
 |76| Minimum Window Substring|Sliding window, tricks: use two additional variables: found and target|
+
+## BST
+| # | title | solved |
+| :--- | :----: | ----: |
+|98| Validate Binary Search Tree|1. Recursive 2. inoder traverse|
 
 ## Union Find
 | # | title | solved |
