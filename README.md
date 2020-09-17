@@ -424,6 +424,7 @@ One problem may be classified as multiple types. <br>
 |133| Clone Graph|Queue + hashmap|
 |138| Copy List with Random Pointer|Similar to 133, queue + hashmap|
 |827| Making A Large Island|DFS replaces island with unique index|
+|1162| As Far from Land as Possible|BFS updates 0 to 1 till all become 1s|
 
 ## Design
 | # | title | solved |
