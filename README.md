@@ -423,6 +423,7 @@ One problem may be classified as multiple types. <br>
 |1377|Frog Position After T Seconds|BFS + queue, remove neighbors that have been visited|
 |133| Clone Graph|Queue + hashmap|
 |138| Copy List with Random Pointer|Similar to 133, queue + hashmap|
+|827| Making A Large Island|DFS replaces island with unique index|
 
 ## Design
 | # | title | solved |
