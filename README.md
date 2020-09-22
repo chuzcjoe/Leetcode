@@ -485,6 +485,7 @@ One problem may be classified as multiple types. <br>
 |877|Stone Game|2D DP, DP\[i\]\[j\]: more stones one can get than another|
 |53| Maximum Subarray|dp\[i\] means max subarray ending at index i|
 |576| Out of Boundary Paths|**3D DP**|
+|664| Strange Printer|DP with memory|
 
 
 ## Binary Search
