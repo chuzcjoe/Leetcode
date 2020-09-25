@@ -21,6 +21,13 @@ One problem may be classified as multiple types. <br>
 ## Biweekly Contest 34
 |#|title|Level|solved|
 | :--- | :----: | ----: |----: |
+|1588| Sum of All Odd Length Subarrays|easy|Array|
+|1589| Maximum Sum Obtained of Any Permutation|medium|Array & greddy|
+|1590| Make Sum Divisible by P|medium|Hashtable|
+
+## Biweekly Contest 34
+|#|title|Level|solved|
+| :--- | :----: | ----: |----: |
 |1572| Matrix Diagonal Sum|easy|Array|
 |1573| Number of Ways to Split a String|medium|Greedy|
 |1574| Shortest Subarray to be Removed to Make Array Sorted|medium|Monotic Array|
